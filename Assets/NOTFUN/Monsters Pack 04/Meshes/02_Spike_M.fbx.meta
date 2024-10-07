@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: c565ff15b85e36444ab06f2abceed5e6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: 5555185494763237383
+    second: AttackLeft_Spike_M
+  - first:
+      74: 5211732544260953925
+    second: AttackRight_Spike_M
+  - first:
+      74: 451750173428231940
+    second: Block_Spike_M
+  - first:
+      74: 5284507809595457799
+    second: Death_Spike_M
+  - first:
+      74: 2242241855254476710
+    second: GunLeft_Spike_M
+  - first:
+      74: 1602476719911926338
+    second: GunRight_Spike_M
+  - first:
+      74: -7432813462881814473
+    second: Hit_Spike_M
+  - first:
+      74: 7449407840256590804
+    second: Idle_Spike_M
+  - first:
+      74: 5072969793863265428
+    second: Jump_Spike_M
+  - first:
+      74: -6358851888999905934
+    second: Rage_Spike_M
+  - first:
+      74: -7360026905956815215
+    second: Run_Spike_M
+  - first:
+      74: 3004728036784378693
+    second: Walk_Spike_M
+  - first:
+      74: -3392736344061884753
+    second: WalkBack_Spike_M
+  - first:
+      74: -5105628752233823317
+    second: WalkLeft_Spike_M
+  - first:
+      74: 7877978292773623842
+    second: WalkRight_Spike_M
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Spike
+    second: {fileID: 2100000, guid: a439085ee7e0bab458747ddc721d75c2, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Spike_M
+      takeName: AttackLeft_Spike_M
+      internalID: 5555185494763237383
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Spike_M
+      takeName: AttackRight_Spike_M
+      internalID: 5211732544260953925
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Spike_M
+      takeName: Block_Spike_M
+      internalID: 451750173428231940
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Spike_M
+      takeName: Death_Spike_M
+      internalID: 5284507809595457799
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Spike_M
+      takeName: GunLeft_Spike_M
+      internalID: 2242241855254476710
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Spike_M
+      takeName: GunRight_Spike_M
+      internalID: 1602476719911926338
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Spike_M
+      takeName: Hit_Spike_M
+      internalID: -7432813462881814473
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Spike_M
+      takeName: Idle_Spike_M
+      internalID: 7449407840256590804
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Spike_M
+      takeName: Jump_Spike_M
+      internalID: 5072969793863265428
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Spike_M
+      takeName: Rage_Spike_M
+      internalID: -6358851888999905934
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Spike_M
+      takeName: Run_Spike_M
+      internalID: -7360026905956815215
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_Spike_M
+      takeName: Walk_Spike_M
+      internalID: 3004728036784378693
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Spike_M
+      takeName: WalkBack_Spike_M
+      internalID: -3392736344061884753
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Spike_M
+      takeName: WalkLeft_Spike_M
+      internalID: -5105628752233823317
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Spike_M
+      takeName: WalkRight_Spike_M
+      internalID: 7877978292773623842
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 02_Spike_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_Spike:Spike_M
+      parentName: 02_Spike_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_Spike:Root
+      parentName: 02_Spike_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.04923771, y: -0, z: -0, w: 0.9987871}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Medium_Spike:Root_M
+      parentName: Medium_Spike:Root
+      position: {x: 0, y: 1.5631655, z: 0.008027214}
+      rotation: {x: -0.2985432, y: -0.64099294, z: 0.2985432, w: 0.640993}
+      scale: {x: 1.0000014, y: 1.0000011, z: 0.9999994}
+    - name: Medium_Spike:Spine1_M
+      parentName: Medium_Spike:Root_M
+      position: {x: 0.09867244, y: 0.16998969, z: -0.00000032132607}
+      rotation: {x: 0.000000029802319, y: -0, z: -0.28140718, w: 0.9595884}
+      scale: {x: 0.999999, y: 0.99999994, z: 1.0000004}
+    - name: Medium_Spike:Chest_M
+      parentName: Medium_Spike:Spine1_M
+      position: {x: -0.0004957676, y: 0.39243427, z: -0.00046471422}
+      rotation: {x: -0.000000023301663, y: -0.00000013227123, z: -0.038903177, w: 0.999243}
+      scale: {x: 0.99999934, y: 0.9999998, z: 0.9999994}
+    - name: Medium_Spike:Scapula_R1
+      parentName: Medium_Spike:Chest_M
+      position: {x: 0.0010775375, y: 0.37629715, z: 0.15761414}
+      rotation: {x: 0.7061681, y: -0.038220227, z: -0.050022475, w: 0.7052401}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000004}
+    - name: Medium_Spike:Shoulder_R1
+      parentName: Medium_Spike:Scapula_R1
+      position: {x: -0.0000005256041, y: 0.2973704, z: 0.0000007936737}
+      rotation: {x: 0.00013437866, y: -0.00000076554704, z: -0.04764259, w: -0.9988645}
+      scale: {x: 0.9999996, y: 1.0000012, z: 1.0000002}
+    - name: Medium_Spike:Elbow_R1
+      parentName: Medium_Spike:Shoulder_R1
+      position: {x: -0.0000001387052, y: 0.92174166, z: -0.00000014246994}
+      rotation: {x: 0.00000015398835, y: -0.00000060990374, z: 0.07293794, w: -0.9973365}
+      scale: {x: 1.0000006, y: 0.9999996, z: 0.9999998}
+    - name: Medium_Spike:Wrist_R1
+      parentName: Medium_Spike:Elbow_R1
+      position: {x: 0.0000004373398, y: 0.54968464, z: 0.0000006207112}
+      rotation: {x: -0.0000000108768745, y: -0.00000056542655, z: 0.14800099, w: 0.98898727}
+      scale: {x: 0.9999992, y: 1.0000002, z: 0.99999946}
+    - name: Medium_Spike:MiddleFinger1_R1
+      parentName: Medium_Spike:Wrist_R1
+      position: {x: -0.0000004370376, y: 0.22672056, z: -0.00000024287658}
+      rotation: {x: 0.3365008, y: -0.004423625, z: 0.01053828, w: 0.9416139}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000011}
+    - name: Medium_Spike:MiddleFinger4_R1
+      parentName: Medium_Spike:MiddleFinger1_R1
+      position: {x: -0.000000004422, y: 0.24939422, z: 0.00000013978119}
+      rotation: {x: 6.938894e-18, y: 6.938894e-18, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_Spike:Neck_M
+      parentName: Medium_Spike:Chest_M
+      position: {x: -0.0021561778, y: 0.5875986, z: -0.000001120987}
+      rotation: {x: 0.0000000057314304, y: -0.00000010751215, z: -0.070970245, w: 0.9974784}
+      scale: {x: 0.9999998, y: 0.9999993, z: 1}
+    - name: Medium_Spike:Head_M
+      parentName: Medium_Spike:Neck_M
+      position: {x: -0.00000009958223, y: 0.46969187, z: -0.00000038145456}
+      rotation: {x: -0.000000026481658, y: 0.00000023246793, z: 0.00034839657, w: 1}
+      scale: {x: 1.0000014, y: 1.0000008, z: 1.0000014}
+    - name: Medium_Spike:HeadEnd_M
+      parentName: Medium_Spike:Head_M
+      position: {x: -0.00000009906594, y: 0.7916806, z: -0.0000013577234}
+      rotation: {x: -2.4074124e-35, y: 1.7347235e-18, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_Spike:Scapula_R
+      parentName: Medium_Spike:Chest_M
+      position: {x: 0.0010771005, y: 0.37629658, z: -0.15761624}
+      rotation: {x: -0.70578927, y: 0.043262176, z: -0.055071257, w: 0.7049518}
+      scale: {x: 1.0000006, y: 0.9999999, z: 1.0000005}
+    - name: Medium_Spike:Shoulder_R
+      parentName: Medium_Spike:Scapula_R
+      position: {x: -0.00000019040813, y: 0.2973703, z: -0.0000021224268}
+      rotation: {x: -0.00021934506, y: -0.0069490178, z: 0.04764183, w: 0.99884033}
+      scale: {x: 1.0000013, y: 1.0000017, z: 0.9999996}
+    - name: Medium_Spike:Elbow_R
+      parentName: Medium_Spike:Shoulder_R
+      position: {x: -0.000000584177, y: 0.92173743, z: 0.0000007895752}
+      rotation: {x: -0.0000047251087, y: 0.00031098537, z: 0.07293764, w: -0.9973365}
+      scale: {x: 0.99999934, y: 1.0000004, z: 0.9999998}
+    - name: Medium_Spike:Wrist_R
+      parentName: Medium_Spike:Elbow_R
+      position: {x: -0.00000061189974, y: 0.54968756, z: -0.0000012290116}
+      rotation: {x: -0.000022029239, y: -0.00011601442, z: -0.14801076, w: -0.98898584}
+      scale: {x: 0.9999998, y: 0.99999934, z: 1.0000001}
+    - name: Medium_Spike:MiddleFinger1_R
+      parentName: Medium_Spike:Wrist_R
+      position: {x: 0.0000008953947, y: 0.22671585, z: -0.00000085932834}
+      rotation: {x: 0.079242386, y: -0.9225549, z: 0.32720336, w: -0.1885496}
+      scale: {x: 1.0000012, y: 1.0000006, z: 0.99999905}
+    - name: Medium_Spike:MiddleFinger4_R
+      parentName: Medium_Spike:MiddleFinger1_R
+      position: {x: 0.00000022928857, y: 0.24940225, z: -0.0000011871075}
+      rotation: {x: -1.3877788e-17, y: -9.540979e-18, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_Spike:Hip_R
+      parentName: Medium_Spike:Root_M
+      position: {x: -0.049336523, y: -0.06287704, z: -0.29605243}
+      rotation: {x: 0.96459794, y: -0.2635147, z: 0.0019189378, w: -0.010353929}
+      scale: {x: 0.9999992, y: 0.99999946, z: 1.000001}
+    - name: Medium_Spike:Knee_R
+      parentName: Medium_Spike:Hip_R
+      position: {x: 0.0000006266162, y: 0.6516419, z: 0.0000007662381}
+      rotation: {x: 0.0074589876, y: 0.0043340293, z: 0.34477255, w: 0.9386466}
+      scale: {x: 0.9999988, y: 1.0000001, z: 1}
+    - name: Medium_Spike:Ankle_R
+      parentName: Medium_Spike:Knee_R
+      position: {x: -0.0000016326327, y: 0.81675965, z: -0.000001201108}
+      rotation: {x: 0.24935064, y: 0.19820103, z: -0.698329, w: 0.6409971}
+      scale: {x: 0.99999946, y: 1.0000004, z: 1.0000002}
+    - name: Medium_Spike:Toes_R
+      parentName: Medium_Spike:Ankle_R
+      position: {x: -0.0000008403628, y: 0.19037856, z: -0.0000010466698}
+      rotation: {x: 0.03170177, y: -0.102137804, z: -0.034822952, w: 0.9936551}
+      scale: {x: 0.9999989, y: 1.0000002, z: 1.000001}
+    - name: Medium_Spike:ToesEnd_R
+      parentName: Medium_Spike:Toes_R
+      position: {x: 0.000001972388, y: 0.26358208, z: 0.00000034886938}
+      rotation: {x: -0.00000075627094, y: -5.551115e-17, z: -4.198147e-23, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Medium_Spike:Hip_R1
+      parentName: Medium_Spike:Root_M
+      position: {x: -0.049335327, y: -0.06287556, z: 0.2960537}
+      rotation: {x: 0.9645979, y: -0.26351497, z: -0.0019189229, w: 0.010353996}
+      scale: {x: 0.9999998, y: 0.9999983, z: 1}
+    - name: Medium_Spike:Knee_R1
+      parentName: Medium_Spike:Hip_R1
+      position: {x: 0.0000009970971, y: 0.651643, z: -0.0000003525732}
+      rotation: {x: -0.0074590743, y: -0.0043337923, z: 0.34477147, w: 0.9386471}
+      scale: {x: 1.0000013, y: 1.0000012, z: 1.0000002}
+    - name: Medium_Spike:Ankle_R1
+      parentName: Medium_Spike:Knee_R1
+      position: {x: -0.000002474658, y: 0.81675744, z: 0.0000014999674}
+      rotation: {x: -0.06679093, y: -0.046484493, z: -0.73046064, w: 0.67808956}
+      scale: {x: 0.9999998, y: 0.999999, z: 1.0000001}
+    - name: Medium_Spike:Toes_R1
+      parentName: Medium_Spike:Ankle_R1
+      position: {x: 0.00000016968971, y: 0.19037773, z: 0.0000007350968}
+      rotation: {x: -0.020902306, y: -0.05058837, z: -0.042203695, w: 0.99760854}
+      scale: {x: 0.9999996, y: 1.0000008, z: 0.99999976}
+    - name: Medium_Spike:ToesEnd_R1
+      parentName: Medium_Spike:Toes_R1
+      position: {x: -0.000000051171963, y: 0.2635827, z: 0.00000013592582}
+      rotation: {x: 0.00000006614908, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

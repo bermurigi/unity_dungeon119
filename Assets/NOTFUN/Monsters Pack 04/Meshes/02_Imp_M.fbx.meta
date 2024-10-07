@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 575048d3209c7eb45b8b47899b820115
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: -622089388754652564
+    second: AttackLeft_Imp_M
+  - first:
+      74: -1019583191425901997
+    second: AttackRight_Imp_M
+  - first:
+      74: 2678661974216473264
+    second: Block_Imp_M
+  - first:
+      74: 7070459474235568434
+    second: Death_Imp_M
+  - first:
+      74: -5780339274106450050
+    second: GunLeft_Imp_M
+  - first:
+      74: -7937098904882580089
+    second: GunRight_Imp_M
+  - first:
+      74: -9195332168067558550
+    second: Hit_Imp_M
+  - first:
+      74: -4885624372036163394
+    second: Idle_Imp_M
+  - first:
+      74: 3845691373433540191
+    second: Jump_Imp_M
+  - first:
+      74: -4869576041456999714
+    second: Rage_Imp_M
+  - first:
+      74: 5435724871271172596
+    second: Run_Imp_M
+  - first:
+      74: -651190491578425066
+    second: Walk_Imp_M
+  - first:
+      74: -326507961985191462
+    second: WalkBack_Imp_M
+  - first:
+      74: -4019248037225744145
+    second: WalkLeft_Imp_M
+  - first:
+      74: -4769075006044983461
+    second: WalkRight_Imp_M
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Imp
+    second: {fileID: 2100000, guid: 99aae1bca7b1e2940b5be9d5fd8abc5a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Imp_M
+      takeName: AttackLeft_Imp_M
+      internalID: -622089388754652564
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Imp_M
+      takeName: AttackRight_Imp_M
+      internalID: -1019583191425901997
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Imp_M
+      takeName: Block_Imp_M
+      internalID: 2678661974216473264
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Imp_M
+      takeName: Death_Imp_M
+      internalID: 7070459474235568434
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Imp_M
+      takeName: GunLeft_Imp_M
+      internalID: -5780339274106450050
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Imp_M
+      takeName: GunRight_Imp_M
+      internalID: -7937098904882580089
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Imp_M
+      takeName: Hit_Imp_M
+      internalID: -9195332168067558550
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Imp_M
+      takeName: Idle_Imp_M
+      internalID: -4885624372036163394
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Imp_M
+      takeName: Jump_Imp_M
+      internalID: 3845691373433540191
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Imp_M
+      takeName: Rage_Imp_M
+      internalID: -4869576041456999714
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Imp_M
+      takeName: Run_Imp_M
+      internalID: 5435724871271172596
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_Imp_M
+      takeName: Walk_Imp_M
+      internalID: -651190491578425066
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Imp_M
+      takeName: WalkBack_Imp_M
+      internalID: -326507961985191462
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Imp_M
+      takeName: WalkLeft_Imp_M
+      internalID: -4019248037225744145
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Imp_M
+      takeName: WalkRight_Imp_M
+      internalID: -4769075006044983461
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 02_Imp_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Imp_M:Imp_M:Imp_M
+      parentName: 02_Imp_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Imp_M:Imp_M:Root
+      parentName: 02_Imp_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.11441482, y: -0, z: -0, w: 0.99343306}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Imp_M:Imp_M:Root_M
+      parentName: Imp_M:Imp_M:Root
+      position: {x: 0, y: 1.2005649, z: -0.28909874}
+      rotation: {x: -0.47130987, y: -0.52713096, z: 0.47130987, w: 0.52713096}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.9999994}
+    - name: Imp_M:Imp_M:Spine1_M
+      parentName: Imp_M:Imp_M:Root_M
+      position: {x: 0.14400294, y: 0.096071035, z: 0.00000015829154}
+      rotation: {x: 0.000000059604645, y: 0.000000059604645, z: -0.49125138, w: 0.8710179}
+      scale: {x: 0.9999994, y: 1.0000002, z: 1.0000002}
+    - name: Imp_M:Imp_M:Chest_M
+      parentName: Imp_M:Imp_M:Spine1_M
+      position: {x: 0.0007948113, y: 0.30932337, z: -0.0017454753}
+      rotation: {x: -0.00000003080915, y: -0.00000012260804, z: -0.038521048, w: 0.9992578}
+      scale: {x: 1.0000004, y: 0.9999996, z: 0.9999995}
+    - name: Imp_M:Imp_M:Scapula_L
+      parentName: Imp_M:Imp_M:Chest_M
+      position: {x: 0.0010688672, y: 0.4777957, z: 0.15761337}
+      rotation: {x: 0.7061466, y: -0.038495537, z: -0.05029837, w: 0.7052271}
+      scale: {x: 1, y: 1.0000004, z: 1.0000006}
+    - name: Imp_M:Imp_M:Shoulder_L
+      parentName: Imp_M:Imp_M:Scapula_L
+      position: {x: 0.00000021178104, y: 0.19994007, z: -0.00000020269397}
+      rotation: {x: -0.0015070733, y: 0.042985033, z: 0.047781978, w: 0.9979313}
+      scale: {x: 1, y: 0.9999995, z: 0.99999934}
+    - name: Imp_M:Imp_M:Elbow_L
+      parentName: Imp_M:Imp_M:Shoulder_L
+      position: {x: 0.0000005136193, y: 0.8363941, z: -0.00000022600096}
+      rotation: {x: -0.002448319, y: -0.101355515, z: -0.07478334, w: 0.9920326}
+      scale: {x: 0.9999994, y: 1.0000025, z: 1.0000014}
+    - name: Imp_M:Imp_M:Wrist_L
+      parentName: Imp_M:Imp_M:Elbow_L
+      position: {x: 0.0000015606056, y: 0.60312593, z: -0.0000006901565}
+      rotation: {x: -0.008916223, y: -0.058331255, z: -0.117849596, w: -0.9912766}
+      scale: {x: 1.0000004, y: 1, z: 0.9999992}
+    - name: Imp_M:Imp_M:MiddleFinger1_L
+      parentName: Imp_M:Imp_M:Wrist_L
+      position: {x: 0.00000024441232, y: 0.3744299, z: 0.0000021808155}
+      rotation: {x: -0.010745075, y: -0.0015198027, z: 0.024848105, w: -0.99963236}
+      scale: {x: 0.99999946, y: 1.0000001, z: 1.0000005}
+    - name: Imp_M:Imp_M:MiddleFinger4_L
+      parentName: Imp_M:Imp_M:MiddleFinger1_L
+      position: {x: -0.00000033243387, y: 0.24940406, z: 0.00000049425887}
+      rotation: {x: -0.00000018389993, y: -5.551114e-17, z: -5.5511164e-17, w: 1}
+      scale: {x: 1, y: 1.0000007, z: 1}
+    - name: Imp_M:Imp_M:Neck_M
+      parentName: Imp_M:Imp_M:Chest_M
+      position: {x: -0.0021391623, y: 0.73609406, z: -0.0000016771551}
+      rotation: {x: -0.00000006581742, y: -0.00000012511401, z: -0.07135068, w: 0.9974513}
+      scale: {x: 0.9999994, y: 0.99999946, z: 1.0000007}
+    - name: Imp_M:Imp_M:Head_M
+      parentName: Imp_M:Imp_M:Neck_M
+      position: {x: -0.009352239, y: 0.49038485, z: -0.005974683}
+      rotation: {x: 0.00000006738737, y: 0.00000021303994, z: 0.0003482476, w: 1}
+      scale: {x: 1.0000013, y: 1.0000012, z: 1.000001}
+    - name: Imp_M:Imp_M:HeadEnd_M
+      parentName: Imp_M:Imp_M:Head_M
+      position: {x: 0.0000010855914, y: 0.79167914, z: -0.00000042188944}
+      rotation: {x: 0, y: -0, z: -1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Imp_M:Imp_M:Scapula_R
+      parentName: Imp_M:Imp_M:Chest_M
+      position: {x: 0.0010691466, y: 0.4777978, z: -0.15761626}
+      rotation: {x: -0.70577484, y: 0.043529216, z: -0.0553382, w: 0.70492893}
+      scale: {x: 1, y: 1.0000006, z: 1.000001}
+    - name: Imp_M:Imp_M:Shoulder_R
+      parentName: Imp_M:Imp_M:Scapula_R
+      position: {x: -0.00000049680915, y: 0.19993891, z: -0.00000032412657}
+      rotation: {x: -0.0470395, y: 0.9870693, z: -0.008531033, w: -0.15299922}
+      scale: {x: 1, y: 0.9999994, z: 0.999999}
+    - name: Imp_M:Imp_M:Elbow_R
+      parentName: Imp_M:Imp_M:Shoulder_R
+      position: {x: -0.000000477357, y: 0.83639526, z: -0.00000052755695}
+      rotation: {x: 0.0044069174, y: -0.38629374, z: 0.074695855, w: 0.9193357}
+      scale: {x: 1.000001, y: 1.0000019, z: 0.9999997}
+    - name: Imp_M:Imp_M:Wrist_R
+      parentName: Imp_M:Imp_M:Elbow_R
+      position: {x: 0.0000013052628, y: 0.6031197, z: 0.0000007927151}
+      rotation: {x: 0.115338795, y: 0.9652675, z: -0.0258013, w: -0.23300232}
+      scale: {x: 0.99999946, y: 0.9999992, z: 1.000001}
+    - name: Imp_M:Imp_M:MiddleFinger1_R
+      parentName: Imp_M:Imp_M:Wrist_R
+      position: {x: -0.00000095289124, y: 0.37443247, z: -0.00000060101627}
+      rotation: {x: -0.02702699, y: -0.8953133, z: -0.0014755869, w: 0.4446139}
+      scale: {x: 1.0000004, y: 1.0000015, z: 1}
+    - name: Imp_M:Imp_M:MiddleFinger4_R
+      parentName: Imp_M:Imp_M:MiddleFinger1_R
+      position: {x: -0.00000150267, y: 0.24940409, z: -0.0000007980535}
+      rotation: {x: 5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Imp_M:Imp_M:Hip_R
+      parentName: Imp_M:Imp_M:Root_M
+      position: {x: -0.07200205, y: -0.034688395, z: -0.33623755}
+      rotation: {x: 0.8557141, y: -0.48334062, z: -0.17465185, w: -0.060265746}
+      scale: {x: 0.9999985, y: 0.999999, z: 1.0000011}
+    - name: Imp_M:Imp_M:Knee_R
+      parentName: Imp_M:Imp_M:Hip_R
+      position: {x: -0.0000006147854, y: 0.5492394, z: 0.00000032466338}
+      rotation: {x: 0.06789574, y: 0.25348073, z: 0.32779002, w: 0.9075744}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000013}
+    - name: Imp_M:Imp_M:Ankle_R
+      parentName: Imp_M:Imp_M:Knee_R
+      position: {x: -0.00000005590707, y: 0.58091253, z: -0.00000043167938}
+      rotation: {x: -0.050564833, y: -0.20838593, z: -0.6862542, w: 0.6950351}
+      scale: {x: 1, y: 0.9999992, z: 0.9999984}
+    - name: Imp_M:Imp_M:Toes_R
+      parentName: Imp_M:Imp_M:Ankle_R
+      position: {x: 0.00000059359843, y: 0.13520561, z: 0.00000022724053}
+      rotation: {x: -0.0022960845, y: 0.33000097, z: -0.20975542, w: 0.9203786}
+      scale: {x: 0.9999996, y: 1.0000006, z: 1.000002}
+    - name: Imp_M:Imp_M:ToesEnd_R
+      parentName: Imp_M:Imp_M:Toes_R
+      position: {x: -0.000000015678033, y: 0.26358125, z: -0.0000012966398}
+      rotation: {x: 0.0000005115433, y: -0.0000067413634, z: 0.000000095973085, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 0.99999964}
+    - name: Imp_M:Imp_M:Hip_L
+      parentName: Imp_M:Imp_M:Root_M
+      position: {x: -0.07200053, y: -0.034688085, z: 0.33623803}
+      rotation: {x: 0.8729863, y: -0.48626164, z: 0.03351565, w: -0.017925948}
+      scale: {x: 0.9999988, y: 0.9999988, z: 0.9999999}
+    - name: Imp_M:Imp_M:Knee_L
+      parentName: Imp_M:Imp_M:Hip_L
+      position: {x: -0.0000003180164, y: 0.5492417, z: -0.00000006394231}
+      rotation: {x: -0.040636934, y: -0.022452734, z: 0.33241427, w: 0.94199014}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1.0000006}
+    - name: Imp_M:Imp_M:Ankle_L
+      parentName: Imp_M:Imp_M:Knee_L
+      position: {x: 0.0000011222569, y: 0.5809116, z: -0.0000006940515}
+      rotation: {x: -0.040579367, y: -0.009474548, z: -0.6868463, w: 0.7256072}
+      scale: {x: 1.0000005, y: 0.99999875, z: 0.99999964}
+    - name: Imp_M:Imp_M:Toes_L
+      parentName: Imp_M:Imp_M:Ankle_L
+      position: {x: -0.00000045124938, y: 0.13520388, z: -0.0000002395165}
+      rotation: {x: -0.040098548, y: -0.11037795, z: -0.20589747, w: 0.97150147}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000018}
+    - name: Imp_M:Imp_M:ToesEnd_L
+      parentName: Imp_M:Imp_M:Toes_L
+      position: {x: 0.0000009774433, y: 0.2635829, z: 0.0000015242986}
+      rotation: {x: -0.00000004036161, y: 0.000002272055, z: -0.00000004805816, w: 1}
+      scale: {x: 1.0000006, y: 1, z: 0.99999964}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

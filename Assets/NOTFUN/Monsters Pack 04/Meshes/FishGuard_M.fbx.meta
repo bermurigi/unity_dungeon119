@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: 9dc7ec4449f23af4aa5b9a00101da523
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: -2855851279879501294
+    second: AttackLeft_FishGuard_M
+  - first:
+      74: 917899034348058128
+    second: AttackRight_FishGuard_M
+  - first:
+      74: -2268782031030122184
+    second: Block_FishGuard_M
+  - first:
+      74: 2496950992682437501
+    second: Death_FishGuard_M
+  - first:
+      74: -2173513474812019397
+    second: GunLeft_FishGuard_M
+  - first:
+      74: -1149799328301303314
+    second: GunRight_FishGuard_M
+  - first:
+      74: 277557996637888997
+    second: Hit_FishGuard_M
+  - first:
+      74: -1667202179905252236
+    second: Idle_FishGuard_M
+  - first:
+      74: -8140312754592431536
+    second: Jump_FishGuard_M
+  - first:
+      74: -3983769804797964653
+    second: Rage_FishGuard_M
+  - first:
+      74: 7582812877806839272
+    second: Run_FishGuard_M
+  - first:
+      74: -8943675894869549664
+    second: Walk_FishGuard_M
+  - first:
+      74: -1532546623254064097
+    second: WalkBack_FishGuard_M
+  - first:
+      74: -8072442977030229522
+    second: WalkLeft_FishGuard_M
+  - first:
+      74: 8867106992503957803
+    second: WalkRight_FishGuard_M
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_FishGuard_M
+      takeName: AttackLeft_FishGuard_M
+      internalID: -2855851279879501294
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_FishGuard_M
+      takeName: AttackRight_FishGuard_M
+      internalID: 917899034348058128
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_FishGuard_M
+      takeName: Block_FishGuard_M
+      internalID: -2268782031030122184
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_FishGuard_M
+      takeName: Death_FishGuard_M
+      internalID: 2496950992682437501
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_FishGuard_M
+      takeName: GunLeft_FishGuard_M
+      internalID: -2173513474812019397
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_FishGuard_M
+      takeName: GunRight_FishGuard_M
+      internalID: -1149799328301303314
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_FishGuard_M
+      takeName: Hit_FishGuard_M
+      internalID: 277557996637888997
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_FishGuard_M
+      takeName: Idle_FishGuard_M
+      internalID: -1667202179905252236
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_FishGuard_M
+      takeName: Jump_FishGuard_M
+      internalID: -8140312754592431536
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_FishGuard_M
+      takeName: Rage_FishGuard_M
+      internalID: -3983769804797964653
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_FishGuard_M
+      takeName: Run_FishGuard_M
+      internalID: 7582812877806839272
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_FishGuard_M
+      takeName: Walk_FishGuard_M
+      internalID: -8943675894869549664
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_FishGuard_M
+      takeName: WalkBack_FishGuard_M
+      internalID: -1532546623254064097
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_FishGuard_M
+      takeName: WalkLeft_FishGuard_M
+      internalID: -8072442977030229522
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_FishGuard_M
+      takeName: WalkRight_FishGuard_M
+      internalID: 8867106992503957803
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: FishGuard_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FishGuard_M:Fishguard_M
+      parentName: FishGuard_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FishGuard_M:prefix_Root
+      parentName: FishGuard_M(Clone)
+      position: {x: -0, y: 0, z: -0.23951599}
+      rotation: {x: 0.02567651, y: -0, z: -0, w: 0.9996703}
+      scale: {x: 1, y: 0.9999996, z: 0.9999996}
+    - name: FishGuard_M:prefix_Root_M
+      parentName: FishGuard_M:prefix_Root
+      position: {x: 0, y: 1.9085401, z: 0.0008342717}
+      rotation: {x: -0.28334904, y: -0.6478529, z: 0.28334904, w: 0.6478529}
+      scale: {x: 1.0000013, y: 1.000001, z: 0.9999994}
+    - name: FishGuard_M:prefix_Spine1_M
+      parentName: FishGuard_M:prefix_Root_M
+      position: {x: 0.11590877, y: 0.19968195, z: 0.00000060910185}
+      rotation: {x: 0.00000004470348, y: 0.000000119209275, z: -0.28140858, w: 0.9595881}
+      scale: {x: 0.9999985, y: 1, z: 1.0000002}
+    - name: FishGuard_M:prefix_Chest_M
+      parentName: FishGuard_M:prefix_Spine1_M
+      position: {x: 0.012728595, y: 0.2826414, z: 0.014471163}
+      rotation: {x: -0.000000005342758, y: -0.000000069605505, z: -0.16268463, w: 0.9866781}
+      scale: {x: 1.0000005, y: 1.0000008, z: 0.9999994}
+    - name: FishGuard_M:prefix_Scapula_L
+      parentName: FishGuard_M:prefix_Chest_M
+      position: {x: 0.05888639, y: 0.27453542, z: 0.15576683}
+      rotation: {x: 0.7054454, y: 0.04976082, z: 0.037936248, w: 0.7059968}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.9999993}
+    - name: FishGuard_M:prefix_Shoulder_L
+      parentName: FishGuard_M:prefix_Scapula_L
+      position: {x: -0.00000032533788, y: 0.34931237, z: -0.000000526245}
+      rotation: {x: 0.017387116, y: 0.054236703, z: 0.0050413217, w: 0.998364}
+      scale: {x: 0.9999993, y: 1.0000004, z: 0.99999964}
+    - name: FishGuard_M:prefix_Elbow_L
+      parentName: FishGuard_M:prefix_Shoulder_L
+      position: {x: -0.00000013971423, y: 0.6719221, z: 0.0000008499658}
+      rotation: {x: -0.00036183177, y: 0.08009036, z: -0.022752618, w: 0.99652785}
+      scale: {x: 1.0000023, y: 1.0000004, z: 1.0000008}
+    - name: FishGuard_M:prefix_Wrist_L
+      parentName: FishGuard_M:prefix_Elbow_L
+      position: {x: 0.00000036882287, y: 0.4130334, z: 0.000000011183558}
+      rotation: {x: 0.049995907, y: 0.055905547, z: 0.10591676, w: 0.9915426}
+      scale: {x: 1.0000001, y: 1.0000011, z: 0.9999997}
+    - name: FishGuard_M:prefix_MiddleFinger1_L
+      parentName: FishGuard_M:prefix_Wrist_L
+      position: {x: 0.00000038891625, y: 0.27621308, z: -0.000000062807935}
+      rotation: {x: 0.18951106, y: 0.025219202, z: 0.20175141, w: 0.9605966}
+      scale: {x: 1.0000004, y: 1, z: 1}
+    - name: FishGuard_M:prefix_MiddleFinger4_L
+      parentName: FishGuard_M:prefix_MiddleFinger1_L
+      position: {x: -0.00000075540015, y: 0.29297236, z: -0.00000017993676}
+      rotation: {x: 3.85186e-34, y: -6.938894e-18, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FishGuard_M:prefix_Neck_M
+      parentName: FishGuard_M:prefix_Chest_M
+      position: {x: -0.11777483, y: 0.6199948, z: -0.0000010943687}
+      rotation: {x: 0.00000004919276, y: -0.00000020342208, z: 0.053442895, w: 0.9985709}
+      scale: {x: 0.99999917, y: 0.9999984, z: 1.0000006}
+    - name: FishGuard_M:prefix_Head_M
+      parentName: FishGuard_M:prefix_Neck_M
+      position: {x: 0.0034906366, y: 0.33428156, z: 0.0023967766}
+      rotation: {x: -0.000000015945295, y: 0.00000018285077, z: 0.00034796444, w: 1}
+      scale: {x: 1.0000017, y: 1.0000014, z: 1.0000007}
+    - name: FishGuard_M:prefix_HeadEnd_M
+      parentName: FishGuard_M:prefix_Head_M
+      position: {x: -0.00000042329677, y: 0.9299667, z: -0.000000785418}
+      rotation: {x: 0, y: -8.6736174e-19, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FishGuard_M:prefix_Scapula_R
+      parentName: FishGuard_M:prefix_Chest_M
+      position: {x: 0.05888691, y: 0.27453402, z: -0.15576768}
+      rotation: {x: -0.70570016, y: -0.044716407, z: 0.032895725, w: 0.7063325}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999976}
+    - name: FishGuard_M:prefix_Shoulder_R
+      parentName: FishGuard_M:prefix_Scapula_R
+      position: {x: -0.00000003979801, y: 0.34931293, z: 0.0000014067313}
+      rotation: {x: 0.01773354, y: -0.011869364, z: -0.0036269175, w: -0.9997657}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000006}
+    - name: FishGuard_M:prefix_Elbow_R
+      parentName: FishGuard_M:prefix_Shoulder_R
+      position: {x: -0.00000070479683, y: 0.67191565, z: -0.0000007579634}
+      rotation: {x: 0.00041426154, y: -0.22250557, z: -0.022752473, w: 0.9746658}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000007}
+    - name: FishGuard_M:prefix_Wrist_R
+      parentName: FishGuard_M:prefix_Elbow_R
+      position: {x: -0.0000013303064, y: 0.4130411, z: 0.0000007181527}
+      rotation: {x: 0.00537734, y: -0.38797694, z: 0.11699827, w: 0.9141972}
+      scale: {x: 0.9999997, y: 0.9999991, z: 0.99999994}
+    - name: FishGuard_M:prefix_MiddleFinger1_R
+      parentName: FishGuard_M:prefix_Wrist_R
+      position: {x: -0.00000013740295, y: 0.2762148, z: -0.00000025576517}
+      rotation: {x: 0.25835946, y: -0.8779392, z: 0.09933552, w: 0.39064768}
+      scale: {x: 0.9999992, y: 1.000001, z: 1.0000011}
+    - name: FishGuard_M:prefix_MiddleFinger4_R
+      parentName: FishGuard_M:prefix_MiddleFinger1_R
+      position: {x: 0.0000013142308, y: 0.29296747, z: -0.0000018932667}
+      rotation: {x: -1.3877788e-17, y: -1.3877788e-17, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FishGuard_M:prefix_Hip_R
+      parentName: FishGuard_M:prefix_Root_M
+      position: {x: -0.05795437, y: -0.07385902, z: -0.23976596}
+      rotation: {x: 0.3653256, y: -0.12991647, z: -0.85228443, w: -0.35109854}
+      scale: {x: 1.0000005, y: 0.9999992, z: 1.0000007}
+    - name: FishGuard_M:prefix_Knee_R
+      parentName: FishGuard_M:prefix_Hip_R
+      position: {x: -0.000000031100974, y: 0.85316247, z: 0.0000010014132}
+      rotation: {x: 0.12253224, y: 0.93454146, z: 0.05793269, w: 0.3290318}
+      scale: {x: 0.99999994, y: 1.0000013, z: 1.0000011}
+    - name: FishGuard_M:prefix_Ankle_R
+      parentName: FishGuard_M:prefix_Knee_R
+      position: {x: -0.0000009828013, y: 0.79712623, z: -0.00000060489947}
+      rotation: {x: -0.037677474, y: -0.10010184, z: -0.6051718, w: 0.7888771}
+      scale: {x: 0.9999997, y: 1.0000008, z: 0.9999998}
+    - name: FishGuard_M:prefix_Toes_R
+      parentName: FishGuard_M:prefix_Ankle_R
+      position: {x: 0.0000018095359, y: 0.2719517, z: 0.0000007866802}
+      rotation: {x: 0.16592266, y: 0.6663505, z: -0.21063934, w: 0.695757}
+      scale: {x: 0.99999887, y: 0.99999994, z: 1.0000005}
+    - name: FishGuard_M:prefix_ToesEnd_R
+      parentName: FishGuard_M:prefix_Toes_R
+      position: {x: 0.0000005554267, y: 0.30962256, z: -0.00000088357655}
+      rotation: {x: -3.035766e-18, y: 1.5140369e-35, z: -4.98733e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FishGuard_M:prefix_Hip_L
+      parentName: FishGuard_M:prefix_Root_M
+      position: {x: -0.05795337, y: -0.07385789, z: 0.23976684}
+      rotation: {x: 0.9272579, y: -0.37401208, z: -0.0066434927, w: 0.016235538}
+      scale: {x: 1.0000005, y: 0.99999887, z: 1.0000019}
+    - name: FishGuard_M:prefix_Knee_L
+      parentName: FishGuard_M:prefix_Hip_L
+      position: {x: 0.0000012049596, y: 0.853164, z: 0.0000006433698}
+      rotation: {x: -0.001978371, y: -0.00080130005, z: 0.13552259, w: 0.99077195}
+      scale: {x: 0.9999987, y: 1.0000012, z: 0.99999887}
+    - name: FishGuard_M:prefix_Ankle_L
+      parentName: FishGuard_M:prefix_Knee_L
+      position: {x: -0.0000014777644, y: 0.7971261, z: 0.00000087133446}
+      rotation: {x: 0.04885726, y: 0.022100301, z: -0.6043719, w: 0.79489565}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.0000002}
+    - name: FishGuard_M:prefix_Toes_L
+      parentName: FishGuard_M:prefix_Ankle_L
+      position: {x: 0.00000027880714, y: 0.27195126, z: 0.0000002922668}
+      rotation: {x: -0.17542355, y: -0.64232737, z: -0.20279515, w: 0.7179947}
+      scale: {x: 0.9999977, y: 1.0000008, z: 0.99999946}
+    - name: FishGuard_M:prefix_ToesEnd_L
+      parentName: FishGuard_M:prefix_Toes_L
+      position: {x: 0.0000012890149, y: 0.30962297, z: 0.0000002122818}
+      rotation: {x: -0.00000008914006, y: 0.000000018655006, z: 0.00000048484617,
+        w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

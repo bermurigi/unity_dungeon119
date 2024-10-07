@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 9cb507988ceb38a4581af8ad0e66227f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: -8303783637835457970
+    second: AttackLeft_Nosedman_H
+  - first:
+      74: 2491583319639806700
+    second: AttackRight_Nosedman_H
+  - first:
+      74: -1916483823344844310
+    second: Block_Nosedman_H
+  - first:
+      74: -3503950863502380301
+    second: Death_Nosedman_H
+  - first:
+      74: -2125028629687765885
+    second: GunLeft_Nosedman_H
+  - first:
+      74: 6793629674438493360
+    second: GunRight_Nosedman_H
+  - first:
+      74: -3117812498383171839
+    second: Hit_Nosedman_H
+  - first:
+      74: -5945754875788513958
+    second: Idle_Nosedman_H
+  - first:
+      74: 1637037627652113487
+    second: Jump_Nosedman_H
+  - first:
+      74: 1952622599112499569
+    second: Rage_Nosedman_H
+  - first:
+      74: -7748635354643294396
+    second: Run_Nosedman_H
+  - first:
+      74: 6991583928272202269
+    second: Walk_Nosedman_H
+  - first:
+      74: -5259082852317302467
+    second: WalkBack_Nosedman_H
+  - first:
+      74: 6329304697507537150
+    second: WalkLeft_Nosedman_H
+  - first:
+      74: -7552074560126503028
+    second: WalkRight_Nosedman_H
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Nosedman
+    second: {fileID: 2100000, guid: 1808c9c7a1787274596913fe021ed35b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Nosedman_H
+      takeName: AttackLeft_Nosedman_H
+      internalID: -8303783637835457970
+      firstFrame: 232
+      lastFrame: 294
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Nosedman_H
+      takeName: AttackRight_Nosedman_H
+      internalID: 2491583319639806700
+      firstFrame: 295
+      lastFrame: 356
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Nosedman_H
+      takeName: Block_Nosedman_H
+      internalID: -1916483823344844310
+      firstFrame: 446
+      lastFrame: 496
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Nosedman_H
+      takeName: Death_Nosedman_H
+      internalID: -3503950863502380301
+      firstFrame: 66
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Nosedman_H
+      takeName: GunLeft_Nosedman_H
+      internalID: -2125028629687765885
+      firstFrame: 123
+      lastFrame: 173
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Nosedman_H
+      takeName: GunRight_Nosedman_H
+      internalID: 6793629674438493360
+      firstFrame: 596
+      lastFrame: 646
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Nosedman_H
+      takeName: Hit_Nosedman_H
+      internalID: -3117812498383171839
+      firstFrame: 51
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Nosedman_H
+      takeName: Idle_Nosedman_H
+      internalID: -5945754875788513958
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Nosedman_H
+      takeName: Jump_Nosedman_H
+      internalID: 1637037627652113487
+      firstFrame: 406
+      lastFrame: 445
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Nosedman_H
+      takeName: Rage_Nosedman_H
+      internalID: 1952622599112499569
+      firstFrame: 357
+      lastFrame: 405
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Nosedman_H
+      takeName: Run_Nosedman_H
+      internalID: -7748635354643294396
+      firstFrame: 207
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 207
+    - serializedVersion: 16
+      name: Walk_Nosedman_H
+      takeName: Walk_Nosedman_H
+      internalID: 6991583928272202269
+      firstFrame: 174
+      lastFrame: 206
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Nosedman_H
+      takeName: WalkBack_Nosedman_H
+      internalID: -5259082852317302467
+      firstFrame: 563
+      lastFrame: 595
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Nosedman_H
+      takeName: WalkLeft_Nosedman_H
+      internalID: 6329304697507537150
+      firstFrame: 497
+      lastFrame: 529
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Nosedman_H
+      takeName: WalkRight_Nosedman_H
+      internalID: -7552074560126503028
+      firstFrame: 530
+      lastFrame: 562
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 03_Nosedman_B(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NosedMan_Big:NosedMan_Big:Nosedman_L
+      parentName: 03_Nosedman_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NosedMan_Big:NosedMan_Big:Root
+      parentName: 03_Nosedman_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.01601803, y: -0, z: -0, w: 0.99987173}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: NosedMan_Big:NosedMan_Big:Root_M
+      parentName: NosedMan_Big:NosedMan_Big:Root
+      position: {x: 0, y: 2.0655947, z: -0.3402657}
+      rotation: {x: -0.0880887, y: -0.70159847, z: 0.0880887, w: 0.7015985}
+      scale: {x: 1, y: 0.9999993, z: 0.99999905}
+    - name: NosedMan_Big:NosedMan_Big:Spine1_M
+      parentName: NosedMan_Big:NosedMan_Big:Root_M
+      position: {x: 0.047093578, y: 0.42541307, z: -0.000000039653496}
+      rotation: {x: -0.0000000074505797, y: -0.000000059604638, z: -0.102223426, w: 0.9947615}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000017}
+    - name: NosedMan_Big:NosedMan_Big:Chest_M
+      parentName: NosedMan_Big:NosedMan_Big:Spine1_M
+      position: {x: 0.01860125, y: 0.3176595, z: -0.0003927636}
+      rotation: {x: -0.004166573, y: 0.99999136, z: 0.0000000070024786, w: 0.000000029271416}
+      scale: {x: 0.99999887, y: 0.9999995, z: 0.99999875}
+    - name: NosedMan_Big:NosedMan_Big:Scapula_L
+      parentName: NosedMan_Big:NosedMan_Big:Chest_M
+      position: {x: 0.010653617, y: 0.51734346, z: -0.18521023}
+      rotation: {x: 0.0075276466, y: -0.70706666, z: 0.7070668, w: -0.007527956}
+      scale: {x: 0.9999995, y: 1, z: 1.0000004}
+    - name: NosedMan_Big:NosedMan_Big:Shoulder_L
+      parentName: NosedMan_Big:NosedMan_Big:Scapula_L
+      position: {x: -0.00000047338318, y: 0.31660774, z: 0.0000006595798}
+      rotation: {x: 0.020116646, y: -0.03681054, z: 0.0033190867, w: 0.99911433}
+      scale: {x: 1.0000018, y: 1.0000001, z: 1.0000001}
+    - name: NosedMan_Big:NosedMan_Big:Elbow_L
+      parentName: NosedMan_Big:NosedMan_Big:Shoulder_L
+      position: {x: -0.0000009044705, y: 0.89568394, z: 0.00000045083902}
+      rotation: {x: 0.004865363, y: -0.0056737037, z: -0.03142117, w: 0.99947834}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.99999964}
+    - name: NosedMan_Big:NosedMan_Big:Wrist_L
+      parentName: NosedMan_Big:NosedMan_Big:Elbow_L
+      position: {x: 0.0000006999454, y: 0.7423641, z: -0.00000021601892}
+      rotation: {x: 0.081833206, y: 0.0017348483, z: 0.040559217, w: 0.9958189}
+      scale: {x: 1, y: 1.0000007, z: 0.99999976}
+    - name: NosedMan_Big:NosedMan_Big:MiddleFinger1_L
+      parentName: NosedMan_Big:NosedMan_Big:Wrist_L
+      position: {x: -0.00000018965981, y: 0.4323207, z: -0.00000006771403}
+      rotation: {x: 0.33304098, y: -0.016342998, z: -0.014664916, w: 0.9426567}
+      scale: {x: 0.9999984, y: 1.0000004, z: 1.000001}
+    - name: NosedMan_Big:NosedMan_Big:MiddleFinger4_L
+      parentName: NosedMan_Big:NosedMan_Big:MiddleFinger1_L
+      position: {x: 0.0000009846564, y: 0.47666523, z: 0.0000011600264}
+      rotation: {x: -2.7755576e-17, y: -2.7755576e-17, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NosedMan_Big:NosedMan_Big:Neck_M
+      parentName: NosedMan_Big:NosedMan_Big:Chest_M
+      position: {x: -0.02130833, y: 1.0005504, z: -0.000001987519}
+      rotation: {x: -0.11082807, y: 0.9938396, z: -0.00000064240066, w: 0.0000002467522}
+      scale: {x: 0.9999994, y: 1, z: 1.0000001}
+    - name: NosedMan_Big:NosedMan_Big:Head_M
+      parentName: NosedMan_Big:NosedMan_Big:Neck_M
+      position: {x: 0.030544352, y: 0.39045563, z: 0.002264879}
+      rotation: {x: 0.00000065215545, y: -0.00000026214343, z: -0.08894824, w: -0.9960363}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: NosedMan_Big:NosedMan_Big:HeadEnd_M
+      parentName: NosedMan_Big:NosedMan_Big:Head_M
+      position: {x: 0.0000011189928, y: 0.77966774, z: 0.00000028596924}
+      rotation: {x: 0, y: -2.6020852e-18, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NosedMan_Big:NosedMan_Big:Scapula_R
+      parentName: NosedMan_Big:NosedMan_Big:Chest_M
+      position: {x: 0.010653539, y: 0.5173439, z: 0.18520875}
+      rotation: {x: 0.70706666, y: 0.00752762, z: 0.0075279293, w: 0.7070668}
+      scale: {x: 0.9999995, y: 1, z: 1.0000004}
+    - name: NosedMan_Big:NosedMan_Big:Shoulder_R
+      parentName: NosedMan_Big:NosedMan_Big:Scapula_R
+      position: {x: 0.0000004789462, y: 0.31660727, z: 0.0000006951157}
+      rotation: {x: 0.011294108, y: 0.92597765, z: 0.016975427, w: 0.37702733}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1}
+    - name: NosedMan_Big:NosedMan_Big:Elbow_R
+      parentName: NosedMan_Big:NosedMan_Big:Shoulder_R
+      position: {x: 0.000000027038043, y: 0.89568126, z: 0.000000014757198}
+      rotation: {x: 0.025249476, y: 0.93788403, z: -0.019327391, w: -0.3454888}
+      scale: {x: 1.0000018, y: 1.0000008, z: 1.0000004}
+    - name: NosedMan_Big:NosedMan_Big:Wrist_R
+      parentName: NosedMan_Big:NosedMan_Big:Elbow_R
+      position: {x: 0.00000051337963, y: 0.7423664, z: -0.00000040150155}
+      rotation: {x: -0.090715006, y: -0.47266084, z: 0.010599525, w: -0.8764989}
+      scale: {x: 0.99999964, y: 0.99999887, z: 0.99999994}
+    - name: NosedMan_Big:NosedMan_Big:MiddleFinger1_R
+      parentName: NosedMan_Big:NosedMan_Big:Wrist_R
+      position: {x: -0.0000003649452, y: 0.4323138, z: 0.00000022845451}
+      rotation: {x: 0.18006381, y: 0.12536384, z: 0.28054947, w: 0.93442655}
+      scale: {x: 1, y: 0.9999999, z: 1.0000004}
+    - name: NosedMan_Big:NosedMan_Big:MiddleFinger4_R
+      parentName: NosedMan_Big:NosedMan_Big:MiddleFinger1_R
+      position: {x: 0.00000045791035, y: 0.47667113, z: 0.0000005392842}
+      rotation: {x: 0, y: -4.1633363e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NosedMan_Big:NosedMan_Big:Hip_R
+      parentName: NosedMan_Big:NosedMan_Big:Root_M
+      position: {x: -0.023548553, y: -0.031106075, z: -0.42742506}
+      rotation: {x: 0.99984425, y: -0.017652266, z: 0.000000054948032, w: 0.000000040978193}
+      scale: {x: 0.9999995, y: 0.9999997, z: 1.0000004}
+    - name: NosedMan_Big:NosedMan_Big:Knee_R
+      parentName: NosedMan_Big:NosedMan_Big:Hip_R
+      position: {x: 0.0000023357527, y: 0.89065266, z: -0.00000123711}
+      rotation: {x: 0.000000062465595, y: -0.00000006069681, z: 0.24488726, w: 0.9695516}
+      scale: {x: 1.0000005, y: 1.0000012, z: 1.0000005}
+    - name: NosedMan_Big:NosedMan_Big:Ankle_R
+      parentName: NosedMan_Big:NosedMan_Big:Knee_R
+      position: {x: -0.00000086509095, y: 1.0272266, z: -0.0000010264635}
+      rotation: {x: -0.5098564, y: -0.6873997, z: -0.36714965, w: 0.3643202}
+      scale: {x: 0.9999995, y: 1.0000008, z: 0.99999934}
+    - name: NosedMan_Big:NosedMan_Big:Toes_R
+      parentName: NosedMan_Big:NosedMan_Big:Ankle_R
+      position: {x: -0.0000013830635, y: 0.2553969, z: -0.00000010297349}
+      rotation: {x: -0.06460814, y: 0.9823452, z: -0.15656367, w: -0.079445325}
+      scale: {x: 1.0000008, y: 1.0000005, z: 0.9999997}
+    - name: NosedMan_Big:NosedMan_Big:ToesEnd_R
+      parentName: NosedMan_Big:NosedMan_Big:Toes_R
+      position: {x: 0.00000032906058, y: 0.37409526, z: 0.0000006919249}
+      rotation: {x: 0.000000056597234, y: 0.00000095000456, z: 0.0000001807576, w: 1}
+      scale: {x: 0.99999946, y: 1, z: 1.0000005}
+    - name: NosedMan_Big:NosedMan_Big:Hip_L
+      parentName: NosedMan_Big:NosedMan_Big:Root_M
+      position: {x: -0.023548134, y: -0.031106535, z: 0.42742342}
+      rotation: {x: 0.99984425, y: -0.017652284, z: 0.000000059604645, w: 0.0000000037252903}
+      scale: {x: 1.0000004, y: 1.0000014, z: 1.0000013}
+    - name: NosedMan_Big:NosedMan_Big:Knee_L
+      parentName: NosedMan_Big:NosedMan_Big:Hip_L
+      position: {x: 0.0000010468772, y: 0.890655, z: -0.00000178292}
+      rotation: {x: 0.0000000039318953, y: 8.333149e-10, z: 0.24488778, w: 0.9695515}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: NosedMan_Big:NosedMan_Big:Ankle_L
+      parentName: NosedMan_Big:NosedMan_Big:Knee_L
+      position: {x: -0.000000071264004, y: 1.0272251, z: -0.00000008838179}
+      rotation: {x: -0.20033593, y: -0.14523733, z: -0.5954986, w: 0.7642991}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1.0000008}
+    - name: NosedMan_Big:NosedMan_Big:Toes_L
+      parentName: NosedMan_Big:NosedMan_Big:Ankle_L
+      position: {x: 0.00000014994876, y: 0.25539526, z: -0.000000027985518}
+      rotation: {x: -0.11692414, y: -0.2556317, z: -0.122536264, w: 0.9518225}
+      scale: {x: 1, y: 1.0000001, z: 0.99999887}
+    - name: NosedMan_Big:NosedMan_Big:ToesEnd_L
+      parentName: NosedMan_Big:NosedMan_Big:Toes_L
+      position: {x: -0.000000008278971, y: 0.3740968, z: -0.0000005947873}
+      rotation: {x: 0.0000001993182, y: -0.0000004437215, z: -0.00000038282136, w: 1}
+      scale: {x: 0.9999992, y: 1, z: 0.9999995}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

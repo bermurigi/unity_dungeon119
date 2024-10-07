@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: c4dde838b6217804d9fd6713e9209190
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: -578018773480055985
+    second: AttackLeft_Monkey_M
+  - first:
+      74: 4142971078495104912
+    second: AttackRight_Monkey_M
+  - first:
+      74: 5132424772979494227
+    second: Block_Monkey_M
+  - first:
+      74: -4212223712507914373
+    second: Death_Monkey_M
+  - first:
+      74: 6145768877737503320
+    second: GunLeft_Monkey_M
+  - first:
+      74: 7218512529975426152
+    second: GunRight_Monkey_M
+  - first:
+      74: -3748840175204123129
+    second: Hit_Monkey_M
+  - first:
+      74: -4724951189380948639
+    second: Idle_Monkey_M
+  - first:
+      74: 3712238299898240921
+    second: Jump_Monkey_M
+  - first:
+      74: 8888271654570848850
+    second: Rage_Monkey_M
+  - first:
+      74: 7556719598030676767
+    second: Run_Monkey_M
+  - first:
+      74: 2381233310866490194
+    second: Walk_Monkey_M
+  - first:
+      74: 3858391241099053645
+    second: WalkBack_Monkey_M
+  - first:
+      74: 534749131516880058
+    second: WalkLeft_Monkey_M
+  - first:
+      74: 6924801116106839121
+    second: WalkRightMonkey_M
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Monkeydong
+    second: {fileID: 2100000, guid: 5aeefeed7dce1f7478925a43ec72941b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Monkey_M
+      takeName: AttackLeft_Monkey_M
+      internalID: -578018773480055985
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Monkey_M
+      takeName: AttackRight_Monkey_M
+      internalID: 4142971078495104912
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Monkey_M
+      takeName: Block_Monkey_M
+      internalID: 5132424772979494227
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Monkey_M
+      takeName: Death_Monkey_M
+      internalID: -4212223712507914373
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Monkey_M
+      takeName: GunLeft_Monkey_M
+      internalID: 6145768877737503320
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Monkey_M
+      takeName: GunRight_Monkey_M
+      internalID: 7218512529975426152
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Monkey_M
+      takeName: Hit_Monkey_M
+      internalID: -3748840175204123129
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Monkey_M
+      takeName: Idle_Monkey_M
+      internalID: -4724951189380948639
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Monkey_M
+      takeName: Jump_Monkey_M
+      internalID: 3712238299898240921
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Monkey_M
+      takeName: Rage_Monkey_M
+      internalID: 8888271654570848850
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Monkey_M
+      takeName: Run_Monkey_M
+      internalID: 7556719598030676767
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_Monkey_M
+      takeName: Walk_Monkey_M
+      internalID: 2381233310866490194
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Monkey_M
+      takeName: WalkBack_Monkey_M
+      internalID: 3858391241099053645
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Monkey_M
+      takeName: WalkLeft_Monkey_M
+      internalID: 534749131516880058
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRightMonkey_M
+      takeName: WalkRightMonkey_M
+      internalID: 6924801116106839121
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 02_Monkeydong_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_monkey:Medium_monkey:Monkeydong_M
+      parentName: 02_Monkeydong_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_monkey:Medium_monkey:Root
+      parentName: 02_Monkeydong_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000176501, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Medium_monkey:Medium_monkey:Root_M
+      parentName: Medium_monkey:Medium_monkey:Root
+      position: {x: 0, y: 1.563869, z: 0.000024954086}
+      rotation: {x: 0.5570947, y: 0.4354832, z: -0.55709463, w: -0.43548313}
+      scale: {x: 1.0000007, y: 1.0000006, z: 0.9999995}
+    - name: Medium_monkey:Medium_monkey:Spine1_M
+      parentName: Medium_monkey:Medium_monkey:Root_M
+      position: {x: 0.15837912, y: 0.00060658617, z: 0.00000034499308}
+      rotation: {x: -0.00000011920929, y: -0.00000008940697, z: 0.72137016, w: -0.6925497}
+      scale: {x: 0.99999934, y: 1, z: 1.0000002}
+    - name: Medium_monkey:Medium_monkey:Chest_M
+      parentName: Medium_monkey:Medium_monkey:Spine1_M
+      position: {x: 0.0022551843, y: 0.22644897, z: 0.0029555724}
+      rotation: {x: 0.000000028151266, y: -0.00000006337058, z: -0.039077457, w: 0.9992362}
+      scale: {x: 1.0000005, y: 1.0000004, z: 0.99999946}
+    - name: Medium_monkey:Medium_monkey:Scapula_L
+      parentName: Medium_monkey:Medium_monkey:Chest_M
+      position: {x: 0.0011814864, y: 0.31749412, z: 0.15761504}
+      rotation: {x: 0.69177866, y: -0.06672389, z: -0.010387046, w: 0.71894526}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Medium_monkey:Medium_monkey:Shoulder_L
+      parentName: Medium_monkey:Medium_monkey:Scapula_L
+      position: {x: 0.10442368, y: 0.22775319, z: 0.001049029}
+      rotation: {x: -0.03477719, y: 0.0016646234, z: -0.055608403, w: 0.9978455}
+      scale: {x: 1.0000008, y: 0.99999934, z: 1}
+    - name: Medium_monkey:Medium_monkey:Elbow_L
+      parentName: Medium_monkey:Medium_monkey:Shoulder_L
+      position: {x: -0.00000079210673, y: 0.5719923, z: -0.00000024197507}
+      rotation: {x: -0.013028742, y: 0.0024058493, z: -0.042323466, w: 0.99901617}
+      scale: {x: 0.9999996, y: 1.0000011, z: 0.99999946}
+    - name: Medium_monkey:Medium_monkey:Wrist_L
+      parentName: Medium_monkey:Medium_monkey:Elbow_L
+      position: {x: -0.00000003417098, y: 0.43023768, z: 0.0000008341856}
+      rotation: {x: 0.08333041, y: 0.014133957, z: 0.077832334, w: 0.9933773}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000006}
+    - name: Medium_monkey:Medium_monkey:MiddleFinger1_L
+      parentName: Medium_monkey:Medium_monkey:Wrist_L
+      position: {x: -0.0000005265576, y: 0.7714243, z: 0.0000017635176}
+      rotation: {x: 0.05097859, y: -0.001405225, z: 0.0019322775, w: 0.998697}
+      scale: {x: 0.9999997, y: 1.000001, z: 0.99999976}
+    - name: Medium_monkey:Medium_monkey:MiddleFinger4_L
+      parentName: Medium_monkey:Medium_monkey:MiddleFinger1_L
+      position: {x: 0.00000030605392, y: 0.24940085, z: -0.000000111926774}
+      rotation: {x: -1.3877788e-17, y: -2.0816682e-17, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_monkey:Medium_monkey:Neck_M
+      parentName: Medium_monkey:Medium_monkey:Chest_M
+      position: {x: -0.0023612408, y: 0.5875969, z: -0.00000018430958}
+      rotation: {x: -0.000000055628668, y: -0.00000002719997, z: -0.070795484, w: 0.9974908}
+      scale: {x: 0.9999989, y: 0.9999986, z: 0.99999994}
+    - name: Medium_monkey:Medium_monkey:Head_M
+      parentName: Medium_monkey:Medium_monkey:Neck_M
+      position: {x: -0.0041634827, y: 0.46856934, z: -0.00241197}
+      rotation: {x: 0.000000018135259, y: 0.000000023623153, z: 0.00034852323, w: 1}
+      scale: {x: 1.0000012, y: 1.0000013, z: 1.0000017}
+    - name: Medium_monkey:Medium_monkey:HeadEnd_M
+      parentName: Medium_monkey:Medium_monkey:Head_M
+      position: {x: -0.00000032273383, y: 0.7916809, z: -0.00000030796437}
+      rotation: {x: 0, y: -0, z: -1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_monkey:Medium_monkey:Scapula_R
+      parentName: Medium_monkey:Medium_monkey:Chest_M
+      position: {x: 0.0011814762, y: 0.31749487, z: -0.15761498}
+      rotation: {x: 0.705797, y: -0.043137822, z: 0.05494711, w: -0.7049614}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+    - name: Medium_monkey:Medium_monkey:Shoulder_R
+      parentName: Medium_monkey:Medium_monkey:Scapula_R
+      position: {x: -0.00000027250272, y: 0.44953305, z: -0.00000022650148}
+      rotation: {x: -0.1022793, y: 0.12615438, z: 0.016569989, w: 0.9865848}
+      scale: {x: 1, y: 1.0000001, z: 0.9999993}
+    - name: Medium_monkey:Medium_monkey:Elbow_R
+      parentName: Medium_monkey:Medium_monkey:Shoulder_R
+      position: {x: 0.00000036715775, y: 0.57199955, z: 0.00000045895746}
+      rotation: {x: 0.019478194, y: -0.19882366, z: -0.03831778, w: 0.97909224}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000005}
+    - name: Medium_monkey:Medium_monkey:Wrist_R
+      parentName: Medium_monkey:Medium_monkey:Elbow_R
+      position: {x: -0.00000055479734, y: 0.43023238, z: 0.00000089670135}
+      rotation: {x: -0.10783627, y: 0.9724621, z: -0.054511245, w: 0.19929186}
+      scale: {x: 1.0000002, y: 0.999999, z: 1.0000007}
+    - name: Medium_monkey:Medium_monkey:MiddleFinger1_R
+      parentName: Medium_monkey:Medium_monkey:Wrist_R
+      position: {x: 0.0000016788051, y: 0.7714262, z: 0.0000001257187}
+      rotation: {x: 0.04638162, y: 0.16042408, z: -0.02122006, w: 0.98572946}
+      scale: {x: 0.9999983, y: 1.0000013, z: 0.99999833}
+    - name: Medium_monkey:Medium_monkey:MiddleFinger4_R
+      parentName: Medium_monkey:Medium_monkey:MiddleFinger1_R
+      position: {x: 0.0000007352531, y: 0.24940345, z: 0.0000011819473}
+      rotation: {x: -3.3703774e-34, y: -1.2143064e-17, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Medium_monkey:Medium_monkey:Hip_R
+      parentName: Medium_monkey:Medium_monkey:Root_M
+      position: {x: -0.07918945, y: 0.010800412, z: -0.2960524}
+      rotation: {x: -0.67791796, y: 0.7351376, z: 0.00000008940697, w: 0.00000013038516}
+      scale: {x: 0.99999994, y: 0.99999905, z: 1.0000011}
+    - name: Medium_monkey:Medium_monkey:Knee_R
+      parentName: Medium_monkey:Medium_monkey:Hip_R
+      position: {x: -0.00000037217072, y: 0.5492403, z: -0.00000044627026}
+      rotation: {x: -0.0061448393, y: -0.001867306, z: 0.2678017, w: 0.9634527}
+      scale: {x: 0.9999993, y: 1.0000008, z: 0.9999998}
+    - name: Medium_monkey:Medium_monkey:Ankle_R
+      parentName: Medium_monkey:Medium_monkey:Knee_R
+      position: {x: -0.0000019461368, y: 0.7787, z: 0.00000017783425}
+      rotation: {x: -0.644895, y: -0.76285106, z: -0.038079016, w: 0.026809031}
+      scale: {x: 0.9999992, y: 0.9999993, z: 0.9999991}
+    - name: Medium_monkey:Medium_monkey:Toes_R
+      parentName: Medium_monkey:Medium_monkey:Ankle_R
+      position: {x: 0.0034044385, y: 0.332473, z: -0.043886695}
+      rotation: {x: -0.02720883, y: 0.9991332, z: -0.011022155, w: -0.029511318}
+      scale: {x: 1.0000005, y: 0.99999946, z: 1.0000008}
+    - name: Medium_monkey:Medium_monkey:ToesEnd_R
+      parentName: Medium_monkey:Medium_monkey:Toes_R
+      position: {x: -0.000000005631, y: 0.26358235, z: -0.000001018191}
+      rotation: {x: -0.00000011604948, y: 3.22102e-24, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1.0000013, z: 1}
+    - name: Medium_monkey:Medium_monkey:Hip_L
+      parentName: Medium_monkey:Medium_monkey:Root_M
+      position: {x: -0.07918947, y: 0.010800877, z: 0.2960531}
+      rotation: {x: -0.67791796, y: 0.7351376, z: 0.000000026077032, w: 0.000000048428774}
+      scale: {x: 0.9999998, y: 0.9999996, z: 1.0000005}
+    - name: Medium_monkey:Medium_monkey:Knee_L
+      parentName: Medium_monkey:Medium_monkey:Hip_L
+      position: {x: -0.00000046707186, y: 0.5492405, z: -0.00000033925613}
+      rotation: {x: -0.020252159, y: -0.006154062, z: 0.2533354, w: 0.96714693}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1}
+    - name: Medium_monkey:Medium_monkey:Ankle_L
+      parentName: Medium_monkey:Medium_monkey:Knee_L
+      position: {x: 0.0000007781757, y: 0.77870136, z: 0.00000024913976}
+      rotation: {x: -0.017110605, y: -0.009004685, z: -0.63390124, w: 0.7731722}
+      scale: {x: 1.0000001, y: 0.99999934, z: 0.99999964}
+    - name: Medium_monkey:Medium_monkey:Toes_L
+      parentName: Medium_monkey:Medium_monkey:Ankle_L
+      position: {x: -0.0021469505, y: 0.33211875, z: -0.027663497}
+      rotation: {x: -0.010431111, y: -0.007918268, z: -0.027440399, w: 0.99953765}
+      scale: {x: 0.99999917, y: 1.0000004, z: 1.0000002}
+    - name: Medium_monkey:Medium_monkey:ToesEnd_L
+      parentName: Medium_monkey:Medium_monkey:Toes_L
+      position: {x: -0.00000031318072, y: 0.26358208, z: 0.00000063307937}
+      rotation: {x: 2.0816682e-17, y: -6.938894e-18, z: 1.4444476e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

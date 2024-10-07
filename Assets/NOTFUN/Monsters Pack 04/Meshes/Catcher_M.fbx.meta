@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 31e83514f4ff2334cbd2d3ece69b1fd3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: 6318179957655487909
+    second: Idle_Catcher_M
+  - first:
+      74: 7368917785669829843
+    second: Hit_Catcher_M
+  - first:
+      74: 2757922072463327478
+    second: Death_Catcher_M
+  - first:
+      74: 6009836444627154921
+    second: GunLeft_Catcher_M
+  - first:
+      74: -6514174354330156460
+    second: Walk_Catcher_M
+  - first:
+      74: -3533677559987791360
+    second: Run_Catcher_M
+  - first:
+      74: 5664662820692256579
+    second: AttackLeft_Catcher_M
+  - first:
+      74: 8387952963826034163
+    second: AttackRight_Catcher_M
+  - first:
+      74: 5460723915479661651
+    second: WalkBack_Catcher_M
+  - first:
+      74: 5296233903063485382
+    second: GunRight_Catcher_M
+  - first:
+      74: 5150900631044274347
+    second: WalkLeft_Catcher_M
+  - first:
+      74: -3104050142996807762
+    second: WalkRight_Catcher_M
+  - first:
+      74: -4786361809311032121
+    second: Block_Catcher_M
+  - first:
+      74: 6885131110178070766
+    second: Jump_Catcher_M
+  - first:
+      74: 125610369250263359
+    second: Rage_Catcher_M
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Catcher_M_blinn1
+    second: {fileID: 2100000, guid: c93028308ed416145b6c72056937391a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M_\u0421atcher"
+    second: {fileID: 2100000, guid: c93028308ed416145b6c72056937391a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Catcher_M
+      takeName: AttackLeft_Catcher_M
+      internalID: 5664662820692256579
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Catcher_M
+      takeName: AttackRight_Catcher_M
+      internalID: 8387952963826034163
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Catcher_M
+      takeName: Block_Catcher_M
+      internalID: -4786361809311032121
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Catcher_M
+      takeName: Death_Catcher_M
+      internalID: 2757922072463327478
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Catcher_M
+      takeName: GunLeft_Catcher_M
+      internalID: 6009836444627154921
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Catcher_M
+      takeName: GunRight_Catcher_M
+      internalID: 5296233903063485382
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Catcher_M
+      takeName: Hit_Catcher_M
+      internalID: 7368917785669829843
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Catcher_M
+      takeName: Idle_Catcher_M
+      internalID: 6318179957655487909
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Catcher_M
+      takeName: Jump_Catcher_M
+      internalID: 6885131110178070766
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Catcher_M
+      takeName: Rage_Catcher_M
+      internalID: 125610369250263359
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Catcher_M
+      takeName: Run_Catcher_M
+      internalID: -3533677559987791360
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_Catcher_M
+      takeName: Walk_Catcher_M
+      internalID: -6514174354330156460
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Catcher_M
+      takeName: WalkBack_Catcher_M
+      internalID: 5460723915479661651
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Catcher_M
+      takeName: WalkLeft_Catcher_M
+      internalID: 5150900631044274347
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Catcher_M
+      takeName: WalkRight_Catcher_M
+      internalID: -3104050142996807762
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Catcher_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Catcher_M:\u0421atcher_M"
+      parentName: Catcher_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Catcher_M:prefix_Root
+      parentName: Catcher_M(Clone)
+      position: {x: -0, y: 0, z: -0.204222}
+      rotation: {x: 0.04923771, y: -0, z: -0, w: 0.9987871}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Catcher_M:prefix_Root_M
+      parentName: Catcher_M:prefix_Root
+      position: {x: 0, y: 1.5608362, z: 0.008257437}
+      rotation: {x: -0.10330087, y: -0.6995205, z: 0.10330086, w: 0.6995205}
+      scale: {x: 1.0000012, y: 1.0000006, z: 0.9999994}
+    - name: Catcher_M:prefix_Spine1_M
+      parentName: Catcher_M:prefix_Root_M
+      position: {x: -0.010332624, y: 0.19628043, z: -0.0000002951937}
+      rotation: {x: 0.0000000074505797, y: -0.000000059604638, z: 0.0039991955, w: 0.999992}
+      scale: {x: 0.99999946, y: 0.9999995, z: 1.0000004}
+    - name: Catcher_M:prefix_Chest_M
+      parentName: Catcher_M:prefix_Spine1_M
+      position: {x: -0.08214971, y: 0.37575018, z: -0.06297702}
+      rotation: {x: 4.0178927e-10, y: 0.00000005823274, z: -0.123117305, w: 0.9923922}
+      scale: {x: 0.99999905, y: 1.0000002, z: 0.9999993}
+    - name: Catcher_M:prefix_Scapula_L
+      parentName: Catcher_M:prefix_Chest_M
+      position: {x: 0.01360556, y: 0.5428911, z: 0.15761477}
+      rotation: {x: 0.7022035, y: 0.1690901, z: 0.015427919, w: 0.69143385}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000005}
+    - name: Catcher_M:prefix_Shoulder_L
+      parentName: Catcher_M:prefix_Scapula_L
+      position: {x: -0.0000005895752, y: 0.36878464, z: 0.00000051505367}
+      rotation: {x: 0.008355139, y: -0.10731682, z: 0.11047116, w: 0.9880331}
+      scale: {x: 1.000001, y: 1.0000012, z: 1.0000001}
+    - name: Catcher_M:prefix_Elbow_L
+      parentName: Catcher_M:prefix_Shoulder_L
+      position: {x: -0.00000093353555, y: 0.7636654, z: 0.0000011520387}
+      rotation: {x: -0.0054298434, y: 0.03801828, z: -0.034502786, w: 0.99866647}
+      scale: {x: 1.0000006, y: 0.9999998, z: 0.9999994}
+    - name: Catcher_M:prefix_Wrist_L
+      parentName: Catcher_M:prefix_Elbow_L
+      position: {x: 0.0000002946728, y: 0.51034856, z: -0.00000027239116}
+      rotation: {x: 0.070205964, y: 0.052547578, z: 0.020963255, w: 0.995927}
+      scale: {x: 0.9999985, y: 1.0000005, z: 1.0000014}
+    - name: Catcher_M:prefix_MiddleFinger1_L
+      parentName: Catcher_M:prefix_Wrist_L
+      position: {x: 0.0000012433704, y: 0.34386286, z: -0.0000014299779}
+      rotation: {x: -0.04747189, y: -0.019899502, z: 0.15901157, w: 0.985934}
+      scale: {x: 0.9999997, y: 0.9999991, z: 0.9999998}
+    - name: Catcher_M:prefix_MiddleFinger4_L
+      parentName: Catcher_M:prefix_MiddleFinger1_L
+      position: {x: -0.000000015965043, y: 0.24940269, z: 0.0000003164464}
+      rotation: {x: -0, y: -0, z: 0.0000000069849175, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Catcher_M:prefix_Neck_M
+      parentName: Catcher_M:prefix_Chest_M
+      position: {x: -0.02720926, y: 0.58085203, z: -0.00000047231055}
+      rotation: {x: 0.0000001207551, y: -0.00000034259477, z: -0.07922396, w: 0.99685687}
+      scale: {x: 1.0000001, y: 1, z: 1.0000006}
+    - name: Catcher_M:prefix_Head_M
+      parentName: Catcher_M:prefix_Neck_M
+      position: {x: -0.019098686, y: 0.28518695, z: -0.01032858}
+      rotation: {x: -0.00000013101702, y: 0.0000003413528, z: 0.09194024, w: 0.9957646}
+      scale: {x: 0.9999998, y: 0.9999994, z: 1.000001}
+    - name: Catcher_M:prefix_HeadEnd_M
+      parentName: Catcher_M:prefix_Head_M
+      position: {x: 0.00000016285327, y: 0.79168236, z: 0.0000013597936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Catcher_M:prefix_Scapula_R
+      parentName: Catcher_M:prefix_Chest_M
+      position: {x: 0.013604795, y: 0.5428914, z: -0.15761586}
+      rotation: {x: -0.7022935, y: -0.16413811, z: 0.010408241, w: 0.69262844}
+      scale: {x: 1.000001, y: 0.99999994, z: 1}
+    - name: Catcher_M:prefix_Shoulder_R
+      parentName: Catcher_M:prefix_Scapula_R
+      position: {x: 0.0000009903675, y: 0.3687847, z: -0.000001439206}
+      rotation: {x: -0.0062337504, y: 0.0366361, z: -0.11103408, w: -0.99312156}
+      scale: {x: 0.99999875, y: 1.0000008, z: 1.0000004}
+    - name: Catcher_M:prefix_Elbow_R
+      parentName: Catcher_M:prefix_Shoulder_R
+      position: {x: -0.0000002551736, y: 0.71539146, z: 0.0000019203399}
+      rotation: {x: 0.0038100327, y: 0.15978271, z: -0.03527932, w: 0.9865142}
+      scale: {x: 1.0000008, y: 0.9999991, z: 1.0000002}
+    - name: Catcher_M:prefix_Wrist_R
+      parentName: Catcher_M:prefix_Elbow_R
+      position: {x: -0.0000021509893, y: 0.56073, z: -0.00000047410794}
+      rotation: {x: -0.038581897, y: -0.75632817, z: 0.06278204, w: 0.65002894}
+      scale: {x: 1.0000018, y: 1.0000008, z: 0.99999964}
+    - name: Catcher_M:prefix_MiddleFinger1_R
+      parentName: Catcher_M:prefix_Wrist_R
+      position: {x: -0.0000006107912, y: 0.3438608, z: 0.0000004732297}
+      rotation: {x: -0.020821549, y: 0.9198751, z: 0.16462937, w: -0.35537812}
+      scale: {x: 1.0000011, y: 1.0000002, z: 0.9999992}
+    - name: Catcher_M:prefix_MiddleFinger4_R
+      parentName: Catcher_M:prefix_MiddleFinger1_R
+      position: {x: -0.0000012343121, y: 0.24940331, z: -0.0000007691529}
+      rotation: {x: -0.000000014435495, y: -0, z: -0.000000007450578, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: Catcher_M:prefix_Hip_L
+      parentName: Catcher_M:prefix_Root_M
+      position: {x: 0.005167476, y: 0.17426622, z: 0.27309307}
+      rotation: {x: 0.9986738, y: -0.024073087, z: -0.0076709054, w: 0.0448576}
+      scale: {x: 1.0000077, y: 1.0000083, z: 1.0000097}
+    - name: Catcher_M:prefix_Knee_L
+      parentName: Catcher_M:prefix_Hip_L
+      position: {x: 0.0000136842245, y: 0.80445606, z: 0.000001246234}
+      rotation: {x: -0.000338275, y: -0.0001331889, z: 0.27719235, w: 0.96081436}
+      scale: {x: 1.0000076, y: 0.9999934, z: 1.0000005}
+    - name: Catcher_M:prefix_Ankle_L
+      parentName: Catcher_M:prefix_Knee_L
+      position: {x: -0.0000075801167, y: 0.7786963, z: -0.0000020085286}
+      rotation: {x: 0.010016946, y: -0.00808896, z: -0.65935344, w: 0.7517228}
+      scale: {x: 1.0000023, y: 0.9999942, z: 1.0000031}
+    - name: Catcher_M:prefix_Toes_L
+      parentName: Catcher_M:prefix_Ankle_L
+      position: {x: 0.000003835781, y: 0.33151585, z: 0.0000021728613}
+      rotation: {x: -0.010431607, y: -0.00792467, z: -0.027440678, w: 0.99953765}
+      scale: {x: 0.9999986, y: 1.0000021, z: 1.0000005}
+    - name: Catcher_M:prefix_ToesEnd_L
+      parentName: Catcher_M:prefix_Toes_L
+      position: {x: 0.0000037423004, y: 0.2635816, z: -0.00000029933315}
+      rotation: {x: -2.1617292e-18, y: 0.000000050678715, z: -0.00000023497931, w: 1}
+      scale: {x: 1.0000008, y: 1, z: 1}
+    - name: Catcher_M:prefix_Hip_R
+      parentName: Catcher_M:prefix_Root_M
+      position: {x: 0.005166126, y: 0.17426445, z: -0.27309337}
+      rotation: {x: 0.99870306, y: -0.023695227, z: -0.00071422197, w: -0.045058776}
+      scale: {x: 1.0000187, y: 1.0000012, z: 1.0000058}
+    - name: Catcher_M:prefix_Knee_R
+      parentName: Catcher_M:prefix_Hip_R
+      position: {x: 0.000011692501, y: 0.8044495, z: 0.0000027616063}
+      rotation: {x: 0.0018226914, y: 0.011119382, z: 0.27718556, w: 0.9607504}
+      scale: {x: 1.0000021, y: 0.9999973, z: 1.0000002}
+    - name: Catcher_M:prefix_Ankle_R
+      parentName: Catcher_M:prefix_Knee_R
+      position: {x: -0.000015297905, y: 0.77870184, z: 0.0000009656407}
+      rotation: {x: -0.6593797, y: -0.7517449, z: 0.00801316, w: 0.0058053588}
+      scale: {x: 0.99999875, y: 1.0000002, z: 1.000001}
+    - name: Catcher_M:prefix_Toes_R
+      parentName: Catcher_M:prefix_Ankle_R
+      position: {x: -0.0000050680596, y: 0.3315163, z: 0.0000005068602}
+      rotation: {x: -0.027209207, y: 0.9991331, z: -0.011020452, w: -0.029518247}
+      scale: {x: 0.99999577, y: 1.0000045, z: 1.0000008}
+    - name: Catcher_M:prefix_ToesEnd_R
+      parentName: Catcher_M:prefix_Toes_R
+      position: {x: 0.0000035751582, y: 0.26358032, z: -0.0000009767799}
+      rotation: {x: 0.0000003081249, y: 0.00000043532438, z: 0.00000018065269, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 4f4f2a65179a897458b54d1269d5dea2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: 2224100909449377050
+    second: AttackLeft_Trestor_S
+  - first:
+      74: -7025791353595729048
+    second: AttackRight_Trestor_S
+  - first:
+      74: 7481616822022423442
+    second: Death_Trestor_S
+  - first:
+      74: 3681995958137988681
+    second: Def_Trestor_S
+  - first:
+      74: 6520815050597205418
+    second: GunLeft_Trestor_S
+  - first:
+      74: 1708181388944218783
+    second: GunRight_Trestor_S
+  - first:
+      74: 7378030226747929534
+    second: Hit_Trestor_S
+  - first:
+      74: -2729670842437595900
+    second: Idle_Trestor_S
+  - first:
+      74: -2975616827127023402
+    second: Jump_Trestor_S
+  - first:
+      74: 4104574817293755462
+    second: Rage_Trestor_S
+  - first:
+      74: 6245300620557986976
+    second: Run_Trestor_S
+  - first:
+      74: 3055984430398818503
+    second: Walk_Trestor_S
+  - first:
+      74: 7592618480798504784
+    second: WalkBack_Trestor_S
+  - first:
+      74: 1623669990646804655
+    second: WalkLeft_Trestor_S
+  - first:
+      74: -2346877456306889318
+    second: WalkRight_Trestor_S
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Treestor
+    second: {fileID: 2100000, guid: 2e58e37abbbbd1446a095bbd03baf32b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Trestor_S
+      takeName: AttackLeft_Trestor_S
+      internalID: 2224100909449377050
+      firstFrame: 153
+      lastFrame: 188
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Trestor_S
+      takeName: AttackRight_Trestor_S
+      internalID: -7025791353595729048
+      firstFrame: 189
+      lastFrame: 224
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Trestor_S
+      takeName: Death_Trestor_S
+      internalID: 7481616822022423442
+      firstFrame: 49
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Def_Trestor_S
+      takeName: Def_Trestor_S
+      internalID: 3681995958137988681
+      firstFrame: 310
+      lastFrame: 343
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Trestor_S
+      takeName: GunLeft_Trestor_S
+      internalID: 6520815050597205418
+      firstFrame: 419
+      lastFrame: 442
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Trestor_S
+      takeName: GunRight_Trestor_S
+      internalID: 1708181388944218783
+      firstFrame: 78
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Trestor_S
+      takeName: Hit_Trestor_S
+      internalID: 7378030226747929534
+      firstFrame: 34
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Trestor_S
+      takeName: Idle_Trestor_S
+      internalID: -2729670842437595900
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Trestor_S
+      takeName: Jump_Trestor_S
+      internalID: -2975616827127023402
+      firstFrame: 270
+      lastFrame: 309
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Trestor_S
+      takeName: Rage_Trestor_S
+      internalID: 4104574817293755462
+      firstFrame: 225
+      lastFrame: 269
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Trestor_S
+      takeName: Run_Trestor_S
+      internalID: 6245300620557986976
+      firstFrame: 127
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 126.9
+    - serializedVersion: 16
+      name: Walk_Trestor_S
+      takeName: Walk_Trestor_S
+      internalID: 3055984430398818503
+      firstFrame: 102
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Trestor_S
+      takeName: WalkBack_Trestor_S
+      internalID: 7592618480798504784
+      firstFrame: 394
+      lastFrame: 418
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Trestor_S
+      takeName: WalkLeft_Trestor_S
+      internalID: 1623669990646804655
+      firstFrame: 344
+      lastFrame: 368
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Trestor_S
+      takeName: WalkRight_Trestor_S
+      internalID: -2346877456306889318
+      firstFrame: 369
+      lastFrame: 393
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 01_Treestor_S(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Small_Trestor:Treestor_S
+      parentName: 01_Treestor_S(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Small_Trestor:Root
+      parentName: 01_Treestor_S(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.04158771, y: 0, z: -0, w: 0.99913484}
+      scale: {x: 1, y: 0.99995893, z: 0.99995893}
+    - name: Small_Trestor:Root_M
+      parentName: Small_Trestor:Root
+      position: {x: 0, y: 0.8337602, z: 0.043777894}
+      rotation: {x: 0.18906635, y: -0.68136185, z: -0.18906637, w: 0.6813618}
+      scale: {x: 1.0000288, y: 1.0000304, z: 1.0000006}
+    - name: Small_Trestor:Spine1_M
+      parentName: Small_Trestor:Root_M
+      position: {x: -0.0944232, y: 0.13123803, z: -0.000001980487}
+      rotation: {x: -0, y: 0.00000008940697, z: 0.36368483, w: 0.93152213}
+      scale: {x: 1.0914965, y: 1.0915178, z: 1.0915027}
+    - name: Small_Trestor:Chest_M
+      parentName: Small_Trestor:Spine1_M
+      position: {x: 0.0024434729, y: 0.06303074, z: -0.0024407338}
+      rotation: {x: 0.000000014490747, y: -0.00000009925523, z: -0.22138937, w: 0.9751855}
+      scale: {x: 0.916192, y: 0.9161543, z: 0.916185}
+    - name: Small_Trestor:Neck_M
+      parentName: Small_Trestor:Chest_M
+      position: {x: -0.11142854, y: 0.26148084, z: 0.0000019541287}
+      rotation: {x: 0.000016321552, y: -0.000039041857, z: 0.0891105, w: 0.99602175}
+      scale: {x: 1.0000957, y: 1.0000383, z: 1}
+    - name: Small_Trestor:Head_M
+      parentName: Small_Trestor:Neck_M
+      position: {x: 0.018696835, y: 0.3891158, z: -0.008481653}
+      rotation: {x: -0.0000131367315, y: 0.00004027069, z: -0.008386835, w: 0.9999649}
+      scale: {x: 0.99988395, y: 0.99992895, z: 1.0000123}
+    - name: Small_Trestor:HeadEnd_M
+      parentName: Small_Trestor:Head_M
+      position: {x: -0.000030855976, y: 0.82894176, z: -0.00006294612}
+      rotation: {x: 0, y: 9.215718e-19, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Small_Trestor:Scapula_R
+      parentName: Small_Trestor:Chest_M
+      position: {x: 0.055725798, y: 0.22564454, z: -0.094486825}
+      rotation: {x: -0.7045256, y: -0.060673695, z: 0.04491557, w: 0.7056522}
+      scale: {x: 1.0000106, y: 1.0000225, z: 1.000036}
+    - name: Small_Trestor:Shoulder_R
+      parentName: Small_Trestor:Scapula_R
+      position: {x: -0.07974507, y: 0.14102873, z: -0.00036876238}
+      rotation: {x: 0.0117252935, y: -0.9994953, z: 0.025538342, w: -0.014814559}
+      scale: {x: 1.0000118, y: 0.99993753, z: 0.9999649}
+    - name: Small_Trestor:Elbow_R
+      parentName: Small_Trestor:Shoulder_R
+      position: {x: -0.000028874536, y: 0.46938398, z: 0.000017828848}
+      rotation: {x: 0.004493545, y: -0.07945992, z: -0.008532464, w: -0.9967915}
+      scale: {x: 0.99998397, y: 0.9998958, z: 0.9999417}
+    - name: Small_Trestor:Wrist_R
+      parentName: Small_Trestor:Elbow_R
+      position: {x: -0.000032019434, y: 0.26720473, z: 0.000020211924}
+      rotation: {x: -0.07549785, y: 0.0068746614, z: -0.05020715, w: 0.9958574}
+      scale: {x: 1.0000093, y: 1.0000606, z: 1.0000426}
+    - name: Small_Trestor:MiddleFinger1_R
+      parentName: Small_Trestor:Wrist_R
+      position: {x: 0.0000045504594, y: 0.22069915, z: 0.000008290513}
+      rotation: {x: 0.18756536, y: 0.49732488, z: 0.39710036, w: -0.74819684}
+      scale: {x: 1.0000534, y: 0.99999666, z: 1.0000645}
+    - name: Small_Trestor:MiddleFinger4_R
+      parentName: Small_Trestor:MiddleFinger1_R
+      position: {x: -0.000003139373, y: 0.18053894, z: -0.000003740219}
+      rotation: {x: 0, y: 2.7755576e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Small_Trestor:Scapula_L
+      parentName: Small_Trestor:Chest_M
+      position: {x: 0.05572444, y: 0.22564258, z: 0.09451073}
+      rotation: {x: 0.6967856, y: 0.123143844, z: -0.0104557555, w: 0.7065523}
+      scale: {x: 1.0000695, y: 1.0000674, z: 0.9999114}
+    - name: Small_Trestor:Shoulder_L
+      parentName: Small_Trestor:Scapula_L
+      position: {x: -0.07973831, y: 0.14102991, z: -0.0004941481}
+      rotation: {x: 0.02753841, y: -0.033937242, z: 0.08948044, w: 0.9950293}
+      scale: {x: 0.9999601, y: 0.9998781, z: 1.0001366}
+    - name: Small_Trestor:Elbow_L
+      parentName: Small_Trestor:Shoulder_L
+      position: {x: 0.000048335998, y: 0.46941417, z: 0.000025468058}
+      rotation: {x: -0.002629063, y: 0.18915519, z: -0.0031629016, w: 0.9819386}
+      scale: {x: 1.0000279, y: 1.0000765, z: 0.99988025}
+    - name: Small_Trestor:Wrist_L
+      parentName: Small_Trestor:Elbow_L
+      position: {x: 0.000031397838, y: 0.26717094, z: 0.000048545422}
+      rotation: {x: -0.08727208, y: -0.07017991, z: 0.011676495, w: 0.9936409}
+      scale: {x: 1.0000367, y: 1.0000105, z: 0.99997073}
+    - name: Small_Trestor:MiddleFinger1_L
+      parentName: Small_Trestor:Wrist_L
+      position: {x: 0.000016280186, y: 0.2206769, z: 0.000051725958}
+      rotation: {x: 0.045431968, y: -0.30546513, z: 0.43679148, w: 0.84489065}
+      scale: {x: 1.000096, y: 0.99989843, z: 0.99996305}
+    - name: Small_Trestor:MiddleFinger4_L
+      parentName: Small_Trestor:MiddleFinger1_L
+      position: {x: -0.000008222285, y: 0.18054214, z: 0.000047017842}
+      rotation: {x: 1.3877788e-17, y: -1.7347236e-17, z: 2.4074127e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Small_Trestor:Hip_R
+      parentName: Small_Trestor:Root_M
+      position: {x: 0.047223404, y: -0.037691455, z: -0.21432035}
+      rotation: {x: 0.9653407, y: 0.23050871, z: 0.09376161, w: -0.078689046}
+      scale: {x: 0.99991846, y: 1.0000343, z: 0.99995303}
+    - name: Small_Trestor:Knee_R
+      parentName: Small_Trestor:Hip_R
+      position: {x: 0.000011369413, y: 0.40731102, z: 0.0000542426}
+      rotation: {x: -0.01034437, y: -0.1211174, z: 0.105047464, w: 0.98700994}
+      scale: {x: 0.9999878, y: 1.0000422, z: 0.9999569}
+    - name: Small_Trestor:Ankle_R
+      parentName: Small_Trestor:Knee_R
+      position: {x: 0.00000022964562, y: 0.30894768, z: -0.0000024735164}
+      rotation: {x: -0.03333525, y: -0.023309477, z: -0.53567475, w: 0.84344417}
+      scale: {x: 1.0000442, y: 1.0001142, z: 1.0000808}
+    - name: Small_Trestor:Toes_R
+      parentName: Small_Trestor:Ankle_R
+      position: {x: -0.000018884715, y: 0.111390255, z: 0.000028627093}
+      rotation: {x: 0.015440168, y: 0.12505195, z: -0.33277363, w: 0.93455094}
+      scale: {x: 0.9998487, y: 0.9999849, z: 1.00003}
+    - name: Small_Trestor:ToesEnd_R
+      parentName: Small_Trestor:Toes_R
+      position: {x: -0.000015142238, y: 0.18326235, z: 0.000053711527}
+      rotation: {x: 3.469447e-18, y: 1.3877788e-17, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Small_Trestor:Hip_L
+      parentName: Small_Trestor:Root_M
+      position: {x: 0.047196206, y: -0.037734874, z: 0.21432287}
+      rotation: {x: 0.96981657, y: 0.23768304, z: 0.01173673, w: 0.05314908}
+      scale: {x: 1.0000465, y: 1.0000273, z: 1.0000108}
+    - name: Small_Trestor:Knee_L
+      parentName: Small_Trestor:Hip_L
+      position: {x: 0.000018098954, y: 0.4072694, z: -0.00000046839915}
+      rotation: {x: 0.00021184608, y: 0.00013999362, z: 0.10555178, w: 0.9944138}
+      scale: {x: 0.9999382, y: 0.9999512, z: 0.9999414}
+    - name: Small_Trestor:Ankle_L
+      parentName: Small_Trestor:Knee_L
+      position: {x: -0.000024040888, y: 0.30753163, z: -0.00003270631}
+      rotation: {x: 0.0045762206, y: 0.000051974763, z: -0.53670704, w: 0.8437562}
+      scale: {x: 1.0000836, y: 1.0000496, z: 1.0000975}
+    - name: Small_Trestor:Toes_L
+      parentName: Small_Trestor:Ankle_L
+      position: {x: -0.000002545621, y: 0.11139332, z: -0.0000025867394}
+      rotation: {x: -0.03022629, y: -0.09029442, z: -0.33173645, w: 0.9385544}
+      scale: {x: 0.9999687, y: 0.9999847, z: 0.99999815}
+    - name: Small_Trestor:ToesEnd_L
+      parentName: Small_Trestor:Toes_L
+      position: {x: 0.0000065264967, y: 0.18325199, z: 0.0000069202365}
+      rotation: {x: 6.331741e-17, y: 2.7755576e-17, z: 1.7347236e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: f7258f4a8b112644780f66cff07896fb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: 3551402387950424802
+    second: AttackLeft_Wedger_M
+  - first:
+      74: -1893262142283628472
+    second: AttackRight_Wedger_M
+  - first:
+      74: -8282937422206383308
+    second: Block_Wedger_M
+  - first:
+      74: -4639813842146724340
+    second: Death_Wedger_M
+  - first:
+      74: 2341896376187781617
+    second: GunLeft_Wedger_M
+  - first:
+      74: -3305166652729961316
+    second: GunRight_Wedger_M
+  - first:
+      74: -8212422060511487389
+    second: Hit_Wedger_M
+  - first:
+      74: 5095272306747910520
+    second: Idle_Wedger_M
+  - first:
+      74: 3469335298802911935
+    second: Jump_Wedger_M
+  - first:
+      74: 1582030629975080827
+    second: Rage_Wedger_M
+  - first:
+      74: 4364024718195893630
+    second: Run_Wedger_M
+  - first:
+      74: -7053605335210705775
+    second: Walk_Wedger_M
+  - first:
+      74: -1612748003900654111
+    second: WalkBack_Wedger_M
+  - first:
+      74: -4325349952338930476
+    second: WalkLeft_Wedger_M
+  - first:
+      74: -7843315462975331226
+    second: WalkRight_Wedger_M
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wedger
+    second: {fileID: 2100000, guid: 5d65794e28976844f85d4f524ac247f6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Wedger_M
+      takeName: AttackLeft_Wedger_M
+      internalID: 3551402387950424802
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Wedger_M
+      takeName: AttackRight_Wedger_M
+      internalID: -1893262142283628472
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Wedger_M
+      takeName: Block_Wedger_M
+      internalID: -8282937422206383308
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Wedger_M
+      takeName: Death_Wedger_M
+      internalID: -4639813842146724340
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Wedger_M
+      takeName: GunLeft_Wedger_M
+      internalID: 2341896376187781617
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Wedger_M
+      takeName: GunRight_Wedger_M
+      internalID: -3305166652729961316
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Wedger_M
+      takeName: Hit_Wedger_M
+      internalID: -8212422060511487389
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Wedger_M
+      takeName: Idle_Wedger_M
+      internalID: 5095272306747910520
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Wedger_M
+      takeName: Jump_Wedger_M
+      internalID: 3469335298802911935
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Wedger_M
+      takeName: Rage_Wedger_M
+      internalID: 1582030629975080827
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Wedger_M
+      takeName: Run_Wedger_M
+      internalID: 4364024718195893630
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_Wedger_M
+      takeName: Walk_Wedger_M
+      internalID: -7053605335210705775
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Wedger_M
+      takeName: WalkBack_Wedger_M
+      internalID: -1612748003900654111
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Wedger_M
+      takeName: WalkLeft_Wedger_M
+      internalID: -4325349952338930476
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Wedger_M
+      takeName: WalkRight_Wedger_M
+      internalID: -7843315462975331226
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Wedger_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Wedger:Wedger_M
+      parentName: Wedger_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Wedger:Root
+      parentName: Wedger_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0047925403, y: -0, z: -0, w: 0.99998856}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Mid_Wedger:Root_M
+      parentName: Mid_Wedger:Root
+      position: {x: -0, y: 1.5076162, z: 0.0012355556}
+      rotation: {x: -0.16257322, y: -0.7185059, z: 0.07271033, w: 0.67233366}
+      scale: {x: 1.0000012, y: 1.0000008, z: 0.9999995}
+    - name: Mid_Wedger:Spine1_M
+      parentName: Mid_Wedger:Root_M
+      position: {x: 0.034505133, y: 0.29739323, z: -0.00000035411205}
+      rotation: {x: 0.101499826, y: 0.024890088, z: -0.17830192, w: 0.9784103}
+      scale: {x: 0.9999993, y: 0.99999946, z: 1.0000002}
+    - name: Mid_Wedger:Chest_M
+      parentName: Mid_Wedger:Spine1_M
+      position: {x: -0.0030278312, y: 0.28914583, z: -0.002079031}
+      rotation: {x: 0.014634504, y: 0.051679246, z: -0.2704084, w: 0.9612463}
+      scale: {x: 0.9999996, y: 0.9999997, z: 1.0000006}
+    - name: Mid_Wedger:Scapula_L
+      parentName: Mid_Wedger:Chest_M
+      position: {x: 0.025008775, y: 0.23535228, z: 0.15761389}
+      rotation: {x: 0.70045215, y: 0.09746521, z: 0.0857034, w: 0.70179933}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999993}
+    - name: Mid_Wedger:Shoulder_L
+      parentName: Mid_Wedger:Scapula_L
+      position: {x: -0.103219755, y: 0.20900597, z: 0.0015946596}
+      rotation: {x: -0.07169958, y: 0.6563706, z: 0.034866735, w: 0.75021404}
+      scale: {x: 1.0000012, y: 1.0000001, z: 0.99999934}
+    - name: Mid_Wedger:Elbow_L
+      parentName: Mid_Wedger:Shoulder_L
+      position: {x: -0.0000008092007, y: 1.052152, z: 0.00000083140156}
+      rotation: {x: 0.017345492, y: 0.06667364, z: -0.025954233, w: 0.99728644}
+      scale: {x: 1.0000002, y: 1.0000014, z: 0.99999857}
+    - name: Mid_Wedger:Wrist_L
+      parentName: Mid_Wedger:Elbow_L
+      position: {x: 0.0000034304817, y: 0.36898705, z: 0.0000025396478}
+      rotation: {x: -0.1565307, y: 0.2597768, z: 0.08469046, w: 0.9491268}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: Mid_Wedger:MiddleFinger1_L
+      parentName: Mid_Wedger:Wrist_L
+      position: {x: -0.0000009290654, y: 0.32932812, z: -0.0000010824822}
+      rotation: {x: 0.11990559, y: 0.0148728145, z: -0.20235692, w: 0.9718298}
+      scale: {x: 0.9999995, y: 0.9999994, z: 0.99999917}
+    - name: Mid_Wedger:MiddleFinger4_L
+      parentName: Mid_Wedger:MiddleFinger1_L
+      position: {x: 0.0000009091741, y: 0.2494041, z: 0.0000007238759}
+      rotation: {x: 1.540744e-33, y: -5.551115e-17, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Wedger:Neck_M
+      parentName: Mid_Wedger:Chest_M
+      position: {x: -0.050019305, y: 0.54423505, z: -0.00000025067772}
+      rotation: {x: 0.00000015045632, y: -0.00000013699885, z: 0.121003106, w: 0.9926521}
+      scale: {x: 0.99999917, y: 0.99999964, z: 1}
+    - name: Mid_Wedger:Head_M
+      parentName: Mid_Wedger:Neck_M
+      position: {x: 0.003032304, y: 0.33547676, z: 0.0013749778}
+      rotation: {x: -0.030836718, y: -0.35646555, z: 0.13891838, w: 0.9234084}
+      scale: {x: 1.000001, y: 1.0000007, z: 0.99999964}
+    - name: Mid_Wedger:HeadEnd_M
+      parentName: Mid_Wedger:Head_M
+      position: {x: -0.0000011269256, y: 0.79168046, z: -0.0000013251099}
+      rotation: {x: 0, y: -8.6736174e-19, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Wedger:Scapula_R
+      parentName: Mid_Wedger:Chest_M
+      position: {x: 0.025008822, y: 0.23535445, z: -0.15761536}
+      rotation: {x: -0.7010453, y: -0.092445865, z: 0.08069443, w: 0.7024797}
+      scale: {x: 0.99999875, y: 1, z: 0.99999976}
+    - name: Mid_Wedger:Shoulder_R
+      parentName: Mid_Wedger:Scapula_R
+      position: {x: -0.10318769, y: 0.20900442, z: -0.0030742188}
+      rotation: {x: 0.012287791, y: 0.89649683, z: -0.08791289, w: 0.43406674}
+      scale: {x: 1.000001, y: 1.0000006, z: 0.9999996}
+    - name: Mid_Wedger:Elbow_R
+      parentName: Mid_Wedger:Shoulder_R
+      position: {x: -0.0000016299524, y: 1.052158, z: 0.0000010632946}
+      rotation: {x: -0.027661435, y: 0.6780831, z: 0.030344106, w: 0.7338374}
+      scale: {x: 1.0000012, y: 1.0000002, z: 0.99999803}
+    - name: Mid_Wedger:Wrist_R
+      parentName: Mid_Wedger:Elbow_R
+      position: {x: -0.0000015634704, y: 0.36898515, z: -0.0000018415906}
+      rotation: {x: 0.12904584, y: -0.1616906, z: -0.021116814, w: 0.97813976}
+      scale: {x: 1, y: 1.0000006, z: 1.0000011}
+    - name: Mid_Wedger:MiddleFinger1_R
+      parentName: Mid_Wedger:Wrist_R
+      position: {x: 0.0000013766838, y: 0.3293247, z: 0.000000049834554}
+      rotation: {x: -0.07698433, y: 0.26583403, z: 0.1041758, w: 0.9552764}
+      scale: {x: 1.0000005, y: 0.9999985, z: 0.9999996}
+    - name: Mid_Wedger:MiddleFinger4_R
+      parentName: Mid_Wedger:MiddleFinger1_R
+      position: {x: 0.00000064742034, y: 0.24940313, z: 0.00000089330695}
+      rotation: {x: -2.7755576e-17, y: -2.7755576e-17, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Wedger:Hip_R
+      parentName: Mid_Wedger:Root_M
+      position: {x: -0.017252589, y: -0.05234628, z: -0.28625748}
+      rotation: {x: 0.96908045, y: -0.08608659, z: -0.10492299, w: -0.20606676}
+      scale: {x: 1.0000001, y: 0.9999984, z: 1.0000004}
+    - name: Mid_Wedger:Knee_R
+      parentName: Mid_Wedger:Hip_R
+      position: {x: 0.00000044773492, y: 0.7022719, z: -0.0000011166185}
+      rotation: {x: -0.13811846, y: 0.12436743, z: 0.29026845, w: 0.93872267}
+      scale: {x: 1.0000017, y: 0.9999998, z: 0.99999964}
+    - name: Mid_Wedger:Ankle_R
+      parentName: Mid_Wedger:Knee_R
+      position: {x: -0.0000014863841, y: 0.7048379, z: -0.0000016082998}
+      rotation: {x: 0.6826053, y: 0.6745176, z: -0.024386574, w: 0.2801453}
+      scale: {x: 0.9999993, y: 0.9999991, z: 1.0000005}
+    - name: Mid_Wedger:Toes_R
+      parentName: Mid_Wedger:Ankle_R
+      position: {x: -0.00000025875326, y: 0.19300698, z: 0.0000013054295}
+      rotation: {x: -0.1575226, y: 0.9606648, z: -0.020039659, w: -0.22783373}
+      scale: {x: 0.99999887, y: 1.0000011, z: 1.0000002}
+    - name: Mid_Wedger:ToesEnd_R
+      parentName: Mid_Wedger:Toes_R
+      position: {x: 0.00000052094543, y: 0.26358107, z: -0.00000020115631}
+      rotation: {x: -0.000000013060474, y: -0.0000007982814, z: 0.00000010272702,
+        w: 1}
+      scale: {x: 1.0000006, y: 1, z: 0.9999989}
+    - name: Mid_Wedger:Hip_L
+      parentName: Mid_Wedger:Root_M
+      position: {x: -0.017250957, y: -0.05234106, z: 0.28625688}
+      rotation: {x: 0.98317885, y: -0.065372944, z: 0.16693887, w: 0.034888044}
+      scale: {x: 0.999999, y: 0.9999993, z: 1.0000002}
+    - name: Mid_Wedger:Knee_L
+      parentName: Mid_Wedger:Hip_L
+      position: {x: 0.00000083658205, y: 0.70227736, z: 0.00000029385922}
+      rotation: {x: 0.0023083682, y: -0.02203085, z: 0.32286745, w: 0.946185}
+      scale: {x: 1.0000013, y: 1.0000002, z: 0.9999998}
+    - name: Mid_Wedger:Ankle_L
+      parentName: Mid_Wedger:Knee_L
+      position: {x: -0.00000030049924, y: 0.7048372, z: 0.0000007803841}
+      rotation: {x: -0.003101301, y: -0.02919865, z: -0.70834094, w: 0.70525956}
+      scale: {x: 0.9999989, y: 0.99999946, z: 1.0000005}
+    - name: Mid_Wedger:Toes_L
+      parentName: Mid_Wedger:Ankle_L
+      position: {x: 0.0000012790922, y: 0.19300643, z: -0.00000041919583}
+      rotation: {x: -0.034068786, y: -0.08005724, z: -0.15509398, w: 0.984061}
+      scale: {x: 0.9999998, y: 1.0000008, z: 0.9999993}
+    - name: Mid_Wedger:ToesEnd_L
+      parentName: Mid_Wedger:Toes_L
+      position: {x: 0.00000018520532, y: 0.26358172, z: 0.00000005704419}
+      rotation: {x: 0.00000024979275, y: 0.00000046755753, z: -0.00000010031581, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 0.99999976}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: fb5c1f69b3013f345bb1ab33930a4cf7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      74: 940548324168594535
+    second: AttackLeft_Tree_M
+  - first:
+      74: 7137989834773120586
+    second: AttackRight_Tree_M
+  - first:
+      74: 3178112074795758742
+    second: Block_Tree_M
+  - first:
+      74: -9153761041439696046
+    second: Death_Tree_M
+  - first:
+      74: -8370479941206815967
+    second: GunLeft_Tree_M
+  - first:
+      74: 6154288491303998069
+    second: GunRight_Tree_M
+  - first:
+      74: 1917305722751032864
+    second: Hit_Tree_M
+  - first:
+      74: 5632779769470766708
+    second: Idle_Tree_M
+  - first:
+      74: 5027917379745425990
+    second: Jump_Tree_M
+  - first:
+      74: -4686796216073953902
+    second: Rage_Tree_M
+  - first:
+      74: -2699520062740388642
+    second: Run_Tree_M
+  - first:
+      74: 8373167242436791280
+    second: Walk_Tree_M
+  - first:
+      74: -8898993141166891388
+    second: WalkBack_Tree_M
+  - first:
+      74: -5264782272044959996
+    second: WalkLeft_Tree_M
+  - first:
+      74: -8591220818226378773
+    second: WalkRight_Tree_M
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Treestor
+    second: {fileID: 2100000, guid: 2e58e37abbbbd1446a095bbd03baf32b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AttackLeft_Tree_M
+      takeName: AttackLeft_Tree_M
+      internalID: 940548324168594535
+      firstFrame: 211
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AttackRight_Tree_M
+      takeName: AttackRight_Tree_M
+      internalID: 7137989834773120586
+      firstFrame: 252
+      lastFrame: 288
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Block_Tree_M
+      takeName: Block_Tree_M
+      internalID: 3178112074795758742
+      firstFrame: 425
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death_Tree_M
+      takeName: Death_Tree_M
+      internalID: -9153761041439696046
+      firstFrame: 59
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunLeft_Tree_M
+      takeName: GunLeft_Tree_M
+      internalID: -8370479941206815967
+      firstFrame: 118
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GunRight_Tree_M
+      takeName: GunRight_Tree_M
+      internalID: 6154288491303998069
+      firstFrame: 322
+      lastFrame: 359
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit_Tree_M
+      takeName: Hit_Tree_M
+      internalID: 1917305722751032864
+      firstFrame: 43
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_Tree_M
+      takeName: Idle_Tree_M
+      internalID: 5632779769470766708
+      firstFrame: 2
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump_Tree_M
+      takeName: Jump_Tree_M
+      internalID: 5027917379745425990
+      firstFrame: 469
+      lastFrame: 507
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rage_Tree_M
+      takeName: Rage_Tree_M
+      internalID: -4686796216073953902
+      firstFrame: 509
+      lastFrame: 564
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run_Tree_M
+      takeName: Run_Tree_M
+      internalID: -2699520062740388642
+      firstFrame: 191
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 190.8
+    - serializedVersion: 16
+      name: Walk_Tree_M
+      takeName: Walk_Tree_M
+      internalID: 8373167242436791280
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBack_Tree_M
+      takeName: WalkBack_Tree_M
+      internalID: -8898993141166891388
+      firstFrame: 289
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLeft_Tree_M
+      takeName: WalkLeft_Tree_M
+      internalID: -5264782272044959996
+      firstFrame: 392
+      lastFrame: 423
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRight_Tree_M
+      takeName: WalkRight_Tree_M
+      internalID: -8591220818226378773
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: 02_Treestor_M(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Trestor:Treestor_M
+      parentName: 02_Treestor_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Trestor:Root
+      parentName: 02_Treestor_M(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.011302749, y: 0, z: -0, w: 0.99993616}
+      scale: {x: 1, y: 0.9999995, z: 0.9999995}
+    - name: Mid_Trestor:Root_M
+      parentName: Mid_Trestor:Root
+      position: {x: -0, y: 1.6770096, z: -0.0032847165}
+      rotation: {x: -0.11435834, y: -0.6977981, z: 0.11435834, w: 0.69779813}
+      scale: {x: 1.0000008, y: 1.0000002, z: 0.9999996}
+    - name: Mid_Trestor:Spine1_M
+      parentName: Mid_Trestor:Root_M
+      position: {x: 0.029388022, y: 0.29236138, z: 0.00000033217322}
+      rotation: {x: -0, y: -0, z: -0.07969382, w: 0.9968194}
+      scale: {x: 0.9999993, y: 1.0000002, z: 0.9999999}
+    - name: Mid_Trestor:Chest_M
+      parentName: Mid_Trestor:Spine1_M
+      position: {x: 0.002074356, y: 0.29483753, z: 0.0060756253}
+      rotation: {x: -0.000000005051822, y: -0.000000030301297, z: -0.060347706, w: 0.99817747}
+      scale: {x: 1.0000002, y: 0.9999993, z: 1.0000007}
+    - name: Mid_Trestor:Scapula_L
+      parentName: Mid_Trestor:Chest_M
+      position: {x: -0.020634783, y: 0.37573215, z: 0.15761429}
+      rotation: {x: 0.70697147, y: -0.017829617, z: -0.029654885, w: 0.70639515}
+      scale: {x: 0.99999905, y: 1.0000008, z: 0.99999905}
+    - name: Mid_Trestor:Shoulder_L
+      parentName: Mid_Trestor:Scapula_L
+      position: {x: -0.0053299097, y: 0.24825369, z: -0.00009417529}
+      rotation: {x: 0.02309054, y: -0.014434833, z: 0.011800736, w: 0.9995596}
+      scale: {x: 1.0000029, y: 1.0000018, z: 0.9999988}
+    - name: Mid_Trestor:Elbow_L
+      parentName: Mid_Trestor:Shoulder_L
+      position: {x: 0.00000044590888, y: 0.8964981, z: -0.0000018794007}
+      rotation: {x: -0.0036427067, y: 0.17496806, z: -0.022137692, w: 0.98431844}
+      scale: {x: 1, y: 1.0000008, z: 0.9999997}
+    - name: Mid_Trestor:Wrist_L
+      parentName: Mid_Trestor:Elbow_L
+      position: {x: 0.000000756744, y: 0.52121955, z: -0.0000030275332}
+      rotation: {x: -0.022257267, y: -0.019842444, z: 0.009384791, w: 0.99951136}
+      scale: {x: 1.0000006, y: 0.9999991, z: 1.000001}
+    - name: Mid_Trestor:MiddleFinger1_L
+      parentName: Mid_Trestor:Wrist_L
+      position: {x: 0.0000008880536, y: 0.38879278, z: -0.0000006230334}
+      rotation: {x: 0.117016554, y: -0.03849244, z: 0.20204067, w: 0.9715992}
+      scale: {x: 0.9999986, y: 1.0000013, z: 0.99999934}
+    - name: Mid_Trestor:MiddleFinger4_L
+      parentName: Mid_Trestor:MiddleFinger1_L
+      position: {x: 0.0000008889171, y: 0.24940656, z: -0.0000012575043}
+      rotation: {x: 0, y: -1.3877788e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Trestor:Neck_M
+      parentName: Mid_Trestor:Chest_M
+      position: {x: 0.04126927, y: 0.8685116, z: -0.0000005744017}
+      rotation: {x: 0.000000012557357, y: 0.000000036546737, z: -0.042152837, w: 0.9991112}
+      scale: {x: 0.99999964, y: 1.0000006, z: 1}
+    - name: Mid_Trestor:Head_M
+      parentName: Mid_Trestor:Neck_M
+      position: {x: -0.001980473, y: 0.46913096, z: -0.0012269443}
+      rotation: {x: -0.0000000030515097, y: -0.000000004975966, z: 0.0003467202, w: 1}
+      scale: {x: 1.0000013, y: 0.99999994, z: 0.99999946}
+    - name: Mid_Trestor:HeadEnd_M
+      parentName: Mid_Trestor:Head_M
+      position: {x: -0.000000027990934, y: 0.7916811, z: -0.000000954241}
+      rotation: {x: -6.938894e-18, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Trestor:Scapula_R
+      parentName: Mid_Trestor:Chest_M
+      position: {x: -0.020633986, y: 0.3757305, z: -0.15761532}
+      rotation: {x: -0.706743, y: 0.02287548, z: -0.034704316, w: 0.70624834}
+      scale: {x: 1.0000001, y: 0.99999946, z: 0.9999998}
+    - name: Mid_Trestor:Shoulder_R
+      parentName: Mid_Trestor:Scapula_R
+      position: {x: -0.0000009321448, y: 0.23655444, z: -0.000000987667}
+      rotation: {x: 0.009566633, y: 0.72329104, z: -0.02267989, w: -0.6901044}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: Mid_Trestor:Elbow_R
+      parentName: Mid_Trestor:Shoulder_R
+      position: {x: 0.0000023833395, y: 0.8965, z: 0.00000214746}
+      rotation: {x: -0.022589123, y: -0.31491917, z: 0.0010128586, w: 0.9488491}
+      scale: {x: 1, y: 1.0000008, z: 0.99999917}
+    - name: Mid_Trestor:Wrist_R
+      parentName: Mid_Trestor:Elbow_R
+      position: {x: -0.0000015173177, y: 0.5212162, z: -0.0000011624013}
+      rotation: {x: 0.00062671286, y: -0.0054930435, z: -0.02414097, w: 0.99969333}
+      scale: {x: 0.99999946, y: 1.0000006, z: 1.0000008}
+    - name: Mid_Trestor:MiddleFinger1_R
+      parentName: Mid_Trestor:Wrist_R
+      position: {x: -0.000000091661185, y: 0.38879642, z: 0.0000007724862}
+      rotation: {x: 0.21916099, y: -0.41301566, z: -0.08049021, w: 0.88028854}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000005}
+    - name: Mid_Trestor:MiddleFinger4_R
+      parentName: Mid_Trestor:MiddleFinger1_R
+      position: {x: -0.00000042211053, y: 0.24940246, z: -0.0000010846636}
+      rotation: {x: -8.6736174e-19, y: 2.1250363e-17, z: 1.8431751e-35, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Trestor:Hip_R
+      parentName: Mid_Trestor:Root_M
+      position: {x: -0.01469367, y: -0.035150014, z: -0.32352036}
+      rotation: {x: 0.995727, y: -0.092345916, z: 0.000000061932944, w: -0.000000014901159}
+      scale: {x: 0.99999416, y: 0.99999934, z: 0.9999974}
+    - name: Mid_Trestor:Knee_R
+      parentName: Mid_Trestor:Hip_R
+      position: {x: -0.0000011712281, y: 0.7753282, z: -0.0000005535477}
+      rotation: {x: -0.0000000665517, y: 0.000000035190105, z: 0.29074425, w: 0.9568008}
+      scale: {x: 1.0000015, y: 0.9999994, z: 1.0000002}
+    - name: Mid_Trestor:Ankle_R
+      parentName: Mid_Trestor:Knee_R
+      position: {x: 0.0000047167377, y: 0.8216055, z: 0.0000007178722}
+      rotation: {x: 0.16792847, y: 0.12155935, z: -0.75599945, w: 0.620877}
+      scale: {x: 1.0000021, y: 0.9999978, z: 1.0000015}
+    - name: Mid_Trestor:Toes_R
+      parentName: Mid_Trestor:Ankle_R
+      position: {x: -0.000001979767, y: 0.4264234, z: 0.0000027020185}
+      rotation: {x: 0.005019753, y: -0.045567136, z: 0.008182218, w: 0.99891514}
+      scale: {x: 1.0000013, y: 0.9999997, z: 1.0000005}
+    - name: Mid_Trestor:ToesEnd_R
+      parentName: Mid_Trestor:Toes_R
+      position: {x: -0.00000057744234, y: 0.26358357, z: 0.0000011196274}
+      rotation: {x: -1.3877788e-17, y: -1.92593e-34, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mid_Trestor:Hip_L
+      parentName: Mid_Trestor:Root_M
+      position: {x: -0.014693854, y: -0.035153836, z: 0.32352126}
+      rotation: {x: 0.99572706, y: -0.09234607, z: -0, w: -0.0000000037252903}
+      scale: {x: 0.9999973, y: 0.9999972, z: 0.9999996}
+    - name: Mid_Trestor:Knee_L
+      parentName: Mid_Trestor:Hip_L
+      position: {x: -0.0000031046375, y: 0.77532756, z: -0.0000008449825}
+      rotation: {x: 0.0000000039696335, y: 7.196009e-10, z: 0.2907441, w: 0.9568009}
+      scale: {x: 0.9999979, y: 1.0000023, z: 1.0000002}
+    - name: Mid_Trestor:Ankle_L
+      parentName: Mid_Trestor:Knee_L
+      position: {x: 0.000002257423, y: 0.82160383, z: -0.00000010083526}
+      rotation: {x: -0.090236776, y: -0.057836402, z: -0.76915085, w: 0.6300152}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1}
+    - name: Mid_Trestor:Toes_L
+      parentName: Mid_Trestor:Ankle_L
+      position: {x: -0.00000068666594, y: 0.42642334, z: -0.0000012710981}
+      rotation: {x: -0.0060611954, y: -0.024997499, z: 0.0074451407, w: 0.9996414}
+      scale: {x: 0.9999985, y: 0.99999803, z: 1.0000007}
+    - name: Mid_Trestor:ToesEnd_L
+      parentName: Mid_Trestor:Toes_L
+      position: {x: -0.0000007462618, y: 0.26358315, z: -0.00000069458946}
+      rotation: {x: 2.0816682e-17, y: 1.3877788e-17, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
